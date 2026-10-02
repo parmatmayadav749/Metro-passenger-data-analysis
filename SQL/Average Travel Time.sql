@@ -1,0 +1,108 @@
+SELECT count(*) FROM metro_passengers.`metropassengers - sheet3`; -- total passengers 
+
+
+SELECT  * FROM metro_passengers.`metropassengers - sheet3`;
+
+SELECT COUNT(*) AS Total_Passengers
+FROM metro_passengers.`metropassengers - sheet3`;
+
+SELECT SUM(Fare) AS Total_Revenue
+FROM `metropassengers - sheet3`;
+
+SELECT AVG(Fare) AS Average_Fare
+FROM metro_passengers.`metropassengers - sheet3` ;
+
+
+SELECT AVG(Travel_Time_Min) AS Average_Travel_Time
+FROM metro_passengers. `metropassengers - sheet3` ;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

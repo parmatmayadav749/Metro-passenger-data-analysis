@@ -1,0 +1,1001 @@
+Passenger_ID,Date,Line,Entry_Station,Exit_Station,Age,Passenger_Type,Trip_Distance_KM,Travel_Time_Min,Fare,Payment_Method
+1,2026-02-01,Green,Anand Vihar,Noida Sector 18,18,Monthly Pass,30,65,0,Token
+2,2026-05-03,Violet,Dwarka Sector 21,Rithala,21,Senior Citizen,13.7,32,26,Smart Card
+3,2026-09-28,Blue,IFFCO Chowk,Botanical Garden,53,Monthly Pass,18,41,0,QR Ticket
+4,2026-11-30,Green,Rohini West,Noida City Centre,55,Monthly Pass,14.8,35,0,Mobile App
+5,2026-02-13,Green,Malviya Nagar,MG Road,40,Tourist,38.6,82,87,QR Ticket
+6,2026-07-19,Yellow,Vishwavidyalaya,HUDA City Centre,30,Monthly Pass,18,41,0,Mobile App
+7,2026-05-25,Blue,Guru Dronacharya,HUDA City Centre,62,Senior Citizen,27.6,60,46,Smart Card
+8,2026-11-13,Green,Botanical Garden,Malviya Nagar,65,Regular,39.3,84,89,QR Ticket
+9,2026-04-24,Violet,Rithala,Guru Dronacharya,24,Student,5.5,16,14,Mobile App
+10,2026-10-17,Red,Malviya Nagar,Yamuna Bank,33,Student,26.2,57,47,Smart Card
+11,2026-10-02,Red,Dwarka Sector 10,New Delhi,26,Regular,30.9,67,72,Token
+12,2026-02-27,Violet,Kirti Nagar,Noida Sector 15,52,Regular,2.8,11,16,Mobile App
+13,2026-04-23,Violet,Civil Lines,Qutub Minar,44,Senior Citizen,33.2,71,55,QR Ticket
+14,2026-05-10,Magenta,Saket,Rithala,35,Student,6.8,19,16,Token
+15,2026-06-16,Violet,Kashmere Gate,Janakpuri West,36,Senior Citizen,20.5,46,36,QR Ticket
+16,2026-01-14,Red,AIIMS,Sikanderpur,65,Student,27.3,60,49,QR Ticket
+17,2026-10-01,Red,Civil Lines,Guru Dronacharya,42,Monthly Pass,39.1,83,0,QR Ticket
+18,2026-05-20,Green,Hauz Khas,HUDA City Centre,33,Monthly Pass,34.8,75,0,QR Ticket
+19,2026-02-16,Red,Civil Lines,Nirman Vihar,27,Monthly Pass,27.2,59,0,Token
+20,2026-06-17,Blue,Rajiv Chowk,Noida Sector 15,66,Senior Citizen,13.4,32,25,Smart Card
+21,2026-12-07,Green,Kirti Nagar,Rajiv Chowk,15,Senior Citizen,35.1,75,58,QR Ticket
+22,2026-09-21,Violet,IFFCO Chowk,Anand Vihar,66,Student,8.5,22,19,Token
+23,2026-09-30,Green,Hauz Khas,Rajouri Garden,48,Senior Citizen,22.7,50,39,QR Ticket
+24,2026-06-19,Violet,Kashmere Gate,Malviya Nagar,67,Student,36.6,78,64,QR Ticket
+25,2026-06-30,Magenta,Rajouri Garden,Civil Lines,51,Monthly Pass,10.3,26,0,Mobile App
+26,2026-09-20,Violet,Kirti Nagar,AIIMS,46,Monthly Pass,14,33,0,Smart Card
+27,2026-05-26,Yellow,Saket,Janakpuri West,22,Regular,12.8,31,36,Token
+28,2026-06-12,Magenta,Hauz Khas,Dwarka Sector 10,43,Tourist,29.1,63,68,Mobile App
+29,2026-12-03,Blue,Kirti Nagar,Noida Sector 18,58,Tourist,20.8,47,52,Token
+30,2026-08-20,Violet,Saket,Mandi House,52,Student,39.9,85,69,QR Ticket
+31,2026-08-27,Yellow,Noida City Centre,Botanical Garden,17,Tourist,26.1,57,62,Token
+32,2026-04-25,Magenta,Chandni Chowk,Laxmi Nagar,22,Monthly Pass,37.2,79,0,Mobile App
+33,2026-09-19,Blue,Chandni Chowk,Dwarka Sector 10,55,Monthly Pass,28.3,62,0,Smart Card
+34,2026-05-28,Green,MG Road,New Delhi,41,Tourist,32.4,70,75,QR Ticket
+35,2026-02-08,Blue,Nirman Vihar,Dwarka Sector 10,51,Senior Citizen,13.2,31,25,QR Ticket
+36,2026-02-22,Yellow,Janakpuri West,Samaypur Badli,39,Student,19.8,45,37,Token
+37,2026-06-09,Green,Guru Dronacharya,Samaypur Badli,59,Senior Citizen,25.9,57,44,Smart Card
+38,2026-04-28,Blue,Mandi House,Saket,38,Student,36.9,79,64,Smart Card
+39,2026-12-17,Violet,Mandi House,Botanical Garden,65,Tourist,25.6,56,61,Token
+40,2026-11-29,Yellow,Sikanderpur,Mandi House,57,Regular,6.6,18,23,Smart Card
+41,2026-08-19,Magenta,Kashmere Gate,Saket,43,Tourist,10.6,26,31,QR Ticket
+42,2026-06-25,Green,Noida Sector 18,IFFCO Chowk,49,Regular,31.5,68,73,Token
+43,2026-06-21,Magenta,Sikanderpur,Samaypur Badli,35,Regular,30.3,66,71,Token
+44,2026-11-26,Magenta,HUDA City Centre,HUDA City Centre,50,Regular,23,51,56,QR Ticket
+45,2026-01-02,Blue,Central Secretariat,Anand Vihar,68,Regular,38.2,81,86,Smart Card
+46,2026-08-31,Violet,IFFCO Chowk,New Delhi,40,Monthly Pass,10,25,0,Token
+47,2026-06-16,Magenta,Dwarka Sector 10,HUDA City Centre,68,Student,5.6,16,14,Token
+48,2026-10-05,Blue,Botanical Garden,HUDA City Centre,25,Senior Citizen,34.7,74,57,Token
+49,2026-08-09,Yellow,Noida Sector 15,Rajouri Garden,67,Monthly Pass,6.4,18,0,QR Ticket
+50,2026-07-26,Green,Rithala,Samaypur Badli,69,Monthly Pass,6.2,17,0,Mobile App
+51,2026-10-11,Blue,Nirman Vihar,Kashmere Gate,21,Regular,6.5,18,23,Smart Card
+52,2026-09-24,Yellow,Anand Vihar,Noida City Centre,47,Student,30.3,66,53,Mobile App
+53,2026-09-12,Red,Nirman Vihar,Yamuna Bank,25,Student,17.5,40,33,Mobile App
+54,2026-07-25,Red,Kirti Nagar,Nirman Vihar,51,Regular,6,17,22,Smart Card
+55,2026-06-27,Green,New Delhi,MG Road,50,Tourist,36.3,78,83,QR Ticket
+56,2026-11-18,Green,Botanical Garden,AIIMS,28,Regular,24.8,55,60,Mobile App
+57,2026-01-23,Violet,Botanical Garden,Noida City Centre,31,Regular,21.9,49,54,Token
+58,2026-05-17,Blue,Botanical Garden,Samaypur Badli,68,Regular,13,31,36,QR Ticket
+59,2026-02-24,Yellow,MG Road,Guru Dronacharya,58,Senior Citizen,29.7,64,50,Smart Card
+60,2026-12-22,Magenta,Botanical Garden,Noida Sector 15,20,Monthly Pass,22.3,50,0,Smart Card
+61,2026-07-22,Blue,Rohini West,Noida Sector 18,38,Regular,22.3,50,55,Smart Card
+62,2026-03-15,Violet,Dwarka Sector 10,Dwarka Sector 10,44,Monthly Pass,18.3,42,0,Token
+63,2026-07-17,Red,Kashmere Gate,Rajouri Garden,25,Regular,14.4,34,39,Mobile App
+64,2026-12-29,Violet,Anand Vihar,Dwarka Sector 10,62,Tourist,26.4,58,63,Mobile App
+65,2026-04-28,Magenta,Rohini West,Dwarka Sector 21,42,Monthly Pass,24.1,53,0,Smart Card
+66,2026-07-30,Magenta,Nirman Vihar,Samaypur Badli,41,Student,25.1,55,45,Mobile App
+67,2026-11-05,Magenta,Laxmi Nagar,Noida City Centre,19,Monthly Pass,21.8,49,0,Mobile App
+68,2026-12-12,Yellow,Kashmere Gate,Hauz Khas,29,Senior Citizen,18.6,42,33,Token
+69,2026-08-10,Blue,Sikanderpur,Mandi House,42,Tourist,34.8,75,80,Token
+70,2026-05-23,Red,Guru Dronacharya,Laxmi Nagar,19,Regular,37.9,81,86,QR Ticket
+71,2026-04-07,Red,Chandni Chowk,Guru Dronacharya,57,Student,39.8,85,69,Mobile App
+72,2026-08-01,Yellow,Malviya Nagar,Malviya Nagar,16,Monthly Pass,17.3,40,0,QR Ticket
+73,2026-12-16,Blue,New Delhi,MG Road,55,Monthly Pass,6.5,18,0,Smart Card
+74,2026-07-06,Violet,Kashmere Gate,MG Road,32,Senior Citizen,16.9,39,30,Mobile App
+75,2026-05-08,Green,Janakpuri West,HUDA City Centre,69,Senior Citizen,7.4,20,16,Mobile App
+76,2026-07-23,Magenta,IFFCO Chowk,Botanical Garden,35,Student,23.3,52,42,Mobile App
+77,2026-08-23,Violet,IFFCO Chowk,Saket,21,Monthly Pass,18.4,42,0,Smart Card
+78,2026-01-16,Magenta,Mandi House,Rajouri Garden,25,Regular,12.3,30,35,Token
+79,2026-04-02,Red,Hauz Khas,Kirti Nagar,45,Monthly Pass,38.5,82,0,Token
+80,2026-07-29,Yellow,Chandni Chowk,Civil Lines,47,Regular,18.5,42,47,Smart Card
+81,2026-12-23,Red,Janakpuri West,Kirti Nagar,42,Monthly Pass,15.8,37,0,Mobile App
+82,2026-10-23,Yellow,Nirman Vihar,Guru Dronacharya,70,Regular,21.6,48,53,Token
+83,2026-07-02,Yellow,Chandni Chowk,Dwarka Sector 21,19,Senior Citizen,39.6,84,64,Token
+84,2026-08-15,Green,Laxmi Nagar,Samaypur Badli,52,Senior Citizen,18.4,42,33,Smart Card
+85,2026-11-05,Green,Janakpuri West,Saket,52,Student,2.8,11,9,Mobile App
+86,2026-10-20,Yellow,Rohini West,Janakpuri West,54,Monthly Pass,3.6,12,0,Smart Card
+87,2026-05-07,Yellow,New Delhi,MG Road,66,Monthly Pass,5.8,17,0,Smart Card
+88,2026-07-11,Violet,Kashmere Gate,IFFCO Chowk,29,Tourist,2.7,10,15,Smart Card
+89,2026-05-25,Yellow,Central Secretariat,Dwarka Sector 10,36,Monthly Pass,32.1,69,0,Smart Card
+90,2026-11-06,Green,MG Road,Noida Sector 18,54,Student,5.6,16,14,QR Ticket
+91,2026-09-12,Green,Dwarka Sector 21,Rithala,55,Monthly Pass,13.1,31,0,Token
+92,2026-01-24,Red,Nirman Vihar,Rajiv Chowk,57,Regular,19.9,45,50,QR Ticket
+93,2026-03-17,Blue,Hauz Khas,AIIMS,52,Student,34.5,74,60,Mobile App
+94,2026-11-25,Yellow,Mandi House,Mandi House,58,Regular,35.8,77,82,Smart Card
+95,2026-10-03,Blue,Guru Dronacharya,Samaypur Badli,28,Regular,28,61,66,Smart Card
+96,2026-02-28,Violet,AIIMS,Malviya Nagar,24,Student,27.9,61,50,Mobile App
+97,2026-10-01,Red,IFFCO Chowk,HUDA City Centre,48,Tourist,23.3,52,57,Smart Card
+98,2026-11-05,Red,Noida Sector 15,Kirti Nagar,27,Monthly Pass,18.2,41,0,Smart Card
+99,2026-12-23,Violet,Yamuna Bank,Kashmere Gate,27,Regular,10.8,27,32,Token
+100,2026-01-19,Red,Rithala,Rithala,21,Senior Citizen,29.6,64,49,Token
+101,2026-12-22,Green,Samaypur Badli,Qutub Minar,52,Tourist,34.2,73,78,QR Ticket
+102,2026-08-07,Yellow,New Delhi,Sikanderpur,25,Monthly Pass,22.6,50,0,Mobile App
+103,2026-02-15,Violet,Noida City Centre,Anand Vihar,50,Student,9.3,24,20,Mobile App
+104,2026-06-28,Violet,Qutub Minar,Dwarka Sector 10,24,Tourist,11.7,28,33,QR Ticket
+105,2026-01-26,Blue,Mandi House,Sikanderpur,52,Monthly Pass,27.8,61,0,Smart Card
+106,2026-12-30,Red,Janakpuri West,Guru Dronacharya,47,Senior Citizen,28.6,62,48,Smart Card
+107,2026-06-17,Magenta,Noida Sector 15,Malviya Nagar,69,Student,12,29,24,Token
+108,2026-07-30,Green,Chandni Chowk,Civil Lines,16,Regular,11.8,29,34,Token
+109,2026-07-16,Magenta,Yamuna Bank,Noida Sector 15,60,Tourist,11.4,28,33,Token
+110,2026-06-13,Yellow,Sikanderpur,Qutub Minar,41,Monthly Pass,18,41,0,QR Ticket
+111,2026-06-27,Blue,Rajiv Chowk,Guru Dronacharya,58,Senior Citizen,33.4,72,55,QR Ticket
+112,2026-11-10,Red,Central Secretariat,Yamuna Bank,25,Regular,23.2,51,56,QR Ticket
+113,2026-09-02,Yellow,Rajouri Garden,Noida Sector 15,47,Regular,35.6,76,81,Mobile App
+114,2026-03-26,Yellow,Janakpuri West,Sikanderpur,59,Tourist,34,73,78,Smart Card
+115,2026-06-20,Blue,Vishwavidyalaya,Guru Dronacharya,45,Monthly Pass,21.4,48,0,QR Ticket
+116,2026-07-15,Violet,Rajouri Garden,Dwarka Sector 10,25,Regular,25.9,57,62,Smart Card
+117,2026-04-07,Green,Laxmi Nagar,Anand Vihar,21,Student,32.2,69,57,QR Ticket
+118,2026-10-29,Violet,Dwarka Sector 10,Vishwavidyalaya,33,Monthly Pass,39.1,83,0,Token
+119,2026-09-29,Red,MG Road,Saket,36,Tourist,34.2,73,78,Mobile App
+120,2026-05-11,Blue,Malviya Nagar,Noida Sector 15,43,Tourist,35.7,76,81,Smart Card
+121,2026-12-29,Magenta,Rajiv Chowk,Rajiv Chowk,68,Regular,38.6,82,87,Mobile App
+122,2026-08-03,Yellow,Mandi House,Civil Lines,46,Regular,38.8,83,88,Mobile App
+123,2026-06-10,Magenta,MG Road,Hauz Khas,41,Senior Citizen,13.9,33,26,QR Ticket
+124,2026-02-14,Green,Mandi House,Rohini West,63,Senior Citizen,32.7,70,54,Mobile App
+125,2026-06-28,Yellow,Noida Sector 15,Rajiv Chowk,25,Regular,26.4,58,63,Mobile App
+126,2026-07-12,Red,Sikanderpur,Botanical Garden,43,Monthly Pass,20.7,46,0,Mobile App
+127,2026-07-17,Blue,Dwarka Sector 21,Rohini West,35,Tourist,8.4,22,27,Smart Card
+128,2026-12-01,Blue,Chandni Chowk,Mandi House,57,Regular,20,45,50,Smart Card
+129,2026-04-05,Red,Vishwavidyalaya,Central Secretariat,21,Regular,26.6,58,63,Mobile App
+130,2026-01-23,Yellow,Central Secretariat,Noida Sector 18,34,Senior Citizen,15.2,35,28,Mobile App
+131,2026-08-05,Magenta,Hauz Khas,Samaypur Badli,20,Senior Citizen,13.4,32,25,Smart Card
+132,2026-06-01,Blue,Noida Sector 18,Nirman Vihar,27,Regular,32.7,70,75,Token
+133,2026-02-16,Red,Anand Vihar,Anand Vihar,63,Regular,17.1,39,44,Token
+134,2026-11-21,Magenta,Chandni Chowk,Central Secretariat,69,Tourist,38.3,82,87,Smart Card
+135,2026-03-12,Magenta,HUDA City Centre,Malviya Nagar,35,Tourist,12.4,30,35,Smart Card
+136,2026-04-20,Yellow,MG Road,Rajiv Chowk,16,Regular,31.2,67,72,Smart Card
+137,2026-07-28,Blue,MG Road,Chandni Chowk,29,Regular,7.8,21,26,QR Ticket
+138,2026-05-13,Yellow,Dwarka Sector 10,Saket,65,Tourist,33,71,76,Mobile App
+139,2026-04-15,Green,Rohini West,Mandi House,40,Senior Citizen,21.3,48,37,Smart Card
+140,2026-04-22,Blue,Central Secretariat,Dwarka Sector 10,69,Regular,6.5,18,23,Token
+141,2026-02-21,Red,Chandni Chowk,Malviya Nagar,49,Regular,39.6,84,89,Smart Card
+142,2026-02-14,Blue,Laxmi Nagar,Noida Sector 18,70,Tourist,34,73,78,QR Ticket
+143,2026-02-19,Red,Yamuna Bank,Civil Lines,17,Senior Citizen,17.5,40,31,Smart Card
+144,2026-02-07,Magenta,Qutub Minar,Rohini West,47,Monthly Pass,5.5,16,0,Mobile App
+145,2026-05-07,Violet,Hauz Khas,MG Road,18,Tourist,18.5,42,47,Smart Card
+146,2026-11-16,Blue,Samaypur Badli,Noida Sector 18,42,Regular,28,61,66,Token
+147,2026-11-26,Magenta,Rohini West,Mandi House,53,Senior Citizen,16,37,29,QR Ticket
+148,2026-11-06,Green,Central Secretariat,Saket,59,Student,23.8,53,43,QR Ticket
+149,2026-10-31,Magenta,Laxmi Nagar,Noida Sector 18,51,Monthly Pass,17.2,39,0,Smart Card
+150,2026-05-08,Yellow,Samaypur Badli,Botanical Garden,53,Regular,38.8,83,88,Token
+151,2026-11-28,Blue,Rohini West,Sikanderpur,45,Monthly Pass,11,27,0,QR Ticket
+152,2026-08-30,Magenta,Chandni Chowk,New Delhi,70,Tourist,21.9,49,54,Mobile App
+153,2026-05-07,Violet,Janakpuri West,Rithala,48,Senior Citizen,21.2,47,37,QR Ticket
+154,2026-06-21,Violet,Saket,Botanical Garden,29,Regular,31.9,69,74,QR Ticket
+155,2026-11-11,Red,Kashmere Gate,Civil Lines,70,Tourist,3.3,12,17,Token
+156,2026-03-11,Yellow,Dwarka Sector 10,MG Road,21,Monthly Pass,4.6,14,0,Token
+157,2026-03-29,Red,Rithala,Noida Sector 18,29,Monthly Pass,20.4,46,0,Mobile App
+158,2026-06-27,Violet,Saket,IFFCO Chowk,21,Senior Citizen,18.9,43,33,Token
+159,2026-08-12,Yellow,Nirman Vihar,Dwarka Sector 10,49,Tourist,36.1,77,82,Smart Card
+160,2026-11-05,Violet,Noida Sector 18,Rithala,58,Senior Citizen,19.5,44,34,Mobile App
+161,2026-09-30,Red,Laxmi Nagar,Rithala,15,Regular,7.9,21,26,Mobile App
+162,2026-11-02,Red,Rithala,Kirti Nagar,43,Monthly Pass,36.4,78,0,QR Ticket
+163,2026-01-07,Blue,Vishwavidyalaya,Nirman Vihar,64,Student,30.1,65,53,Mobile App
+164,2026-10-10,Violet,Rithala,Botanical Garden,40,Regular,10.4,26,31,Smart Card
+165,2026-08-01,Yellow,Dwarka Sector 21,Chandni Chowk,36,Regular,15.9,37,42,Smart Card
+166,2026-04-25,Green,Qutub Minar,Kirti Nagar,43,Senior Citizen,23.6,52,40,Smart Card
+167,2026-03-13,Violet,Noida Sector 15,Rithala,24,Senior Citizen,9.6,24,19,Smart Card
+168,2026-08-04,Red,Chandni Chowk,Rohini West,57,Student,9.2,23,20,Token
+169,2026-03-02,Red,Noida Sector 15,Dwarka Sector 10,68,Monthly Pass,21.7,48,0,Mobile App
+170,2026-09-19,Magenta,IFFCO Chowk,Botanical Garden,46,Tourist,8.5,22,27,Mobile App
+171,2026-01-06,Yellow,Malviya Nagar,HUDA City Centre,44,Student,31,67,55,Mobile App
+172,2026-10-28,Magenta,Dwarka Sector 21,MG Road,17,Student,28.2,61,50,Smart Card
+173,2026-09-15,Violet,Anand Vihar,Anand Vihar,54,Tourist,14.1,33,38,Smart Card
+174,2026-04-25,Red,Dwarka Sector 10,MG Road,58,Student,6.8,19,16,Mobile App
+175,2026-09-17,Green,Rohini West,Rajiv Chowk,60,Regular,15.7,36,41,Token
+176,2026-02-01,Green,Yamuna Bank,Yamuna Bank,26,Senior Citizen,36.9,79,60,Token
+177,2026-06-17,Red,Janakpuri West,New Delhi,65,Senior Citizen,15.7,36,29,Smart Card
+178,2026-01-02,Green,Noida City Centre,Noida Sector 18,25,Senior Citizen,9,23,19,Mobile App
+179,2026-05-10,Red,Noida Sector 18,MG Road,64,Tourist,14.4,34,39,Smart Card
+180,2026-09-29,Blue,Noida City Centre,Noida Sector 18,21,Monthly Pass,15.2,35,0,QR Ticket
+181,2026-10-04,Red,Guru Dronacharya,Noida City Centre,26,Senior Citizen,30.1,65,50,Token
+182,2026-11-25,Green,Kirti Nagar,Hauz Khas,54,Regular,23.7,52,57,Smart Card
+183,2026-08-31,Magenta,Saket,MG Road,24,Tourist,15.5,36,41,Mobile App
+184,2026-01-15,Yellow,Guru Dronacharya,Central Secretariat,53,Monthly Pass,33.2,71,0,Smart Card
+185,2026-01-17,Magenta,New Delhi,Civil Lines,25,Monthly Pass,5,15,0,QR Ticket
+186,2026-05-12,Blue,Qutub Minar,New Delhi,61,Monthly Pass,34.3,74,0,QR Ticket
+187,2026-07-24,Magenta,Dwarka Sector 10,IFFCO Chowk,58,Monthly Pass,29.9,65,0,Smart Card
+188,2026-05-05,Violet,Noida City Centre,Dwarka Sector 10,50,Regular,15,35,40,Mobile App
+189,2026-10-19,Magenta,Rithala,Noida Sector 18,60,Senior Citizen,23.4,52,40,Smart Card
+190,2026-03-13,Violet,Dwarka Sector 21,AIIMS,31,Monthly Pass,28.6,62,0,QR Ticket
+191,2026-02-05,Violet,Rithala,Qutub Minar,30,Tourist,11,27,32,Mobile App
+192,2026-11-20,Green,Hauz Khas,Saket,70,Monthly Pass,12.3,30,0,Smart Card
+193,2026-08-14,Blue,Mandi House,Sikanderpur,56,Monthly Pass,6.7,18,0,QR Ticket
+194,2026-02-27,Violet,Dwarka Sector 21,Saket,26,Monthly Pass,2.3,10,0,Mobile App
+195,2026-09-22,Magenta,Civil Lines,Anand Vihar,42,Regular,10.8,27,32,Mobile App
+196,2026-12-25,Green,Noida City Centre,Noida Sector 15,25,Student,23.5,52,43,Smart Card
+197,2026-06-24,Violet,Anand Vihar,Laxmi Nagar,65,Student,26.2,57,47,QR Ticket
+198,2026-03-29,Magenta,Central Secretariat,Nirman Vihar,40,Monthly Pass,39.5,84,0,Token
+199,2026-09-28,Yellow,Rajouri Garden,Saket,63,Senior Citizen,33.2,71,55,QR Ticket
+200,2026-04-27,Green,Rithala,Noida City Centre,66,Student,5.3,16,13,QR Ticket
+201,2026-06-12,Red,Samaypur Badli,MG Road,37,Monthly Pass,2.3,10,0,Smart Card
+202,2026-09-25,Magenta,Rajouri Garden,Rithala,39,Regular,10.7,26,31,QR Ticket
+203,2026-07-05,Blue,Rohini West,Hauz Khas,53,Monthly Pass,7.4,20,0,Mobile App
+204,2026-07-09,Violet,Laxmi Nagar,Laxmi Nagar,52,Student,24.4,54,44,Mobile App
+205,2026-10-07,Blue,Nirman Vihar,HUDA City Centre,54,Student,10,25,21,QR Ticket
+206,2026-05-05,Magenta,New Delhi,Hauz Khas,59,Student,11,27,23,Mobile App
+207,2026-05-14,Red,IFFCO Chowk,Kirti Nagar,17,Senior Citizen,16.3,38,29,QR Ticket
+208,2026-04-04,Violet,Rajouri Garden,Dwarka Sector 21,58,Regular,36.6,78,83,Token
+209,2026-04-25,Magenta,Rohini West,Yamuna Bank,65,Monthly Pass,16.5,38,0,Token
+210,2026-12-08,Yellow,Noida Sector 15,Samaypur Badli,41,Tourist,31.3,68,73,Mobile App
+211,2026-03-07,Violet,Nirman Vihar,Janakpuri West,30,Student,26.9,59,48,QR Ticket
+212,2026-02-18,Red,Chandni Chowk,Janakpuri West,24,Regular,37.3,80,85,Smart Card
+213,2026-06-22,Yellow,Laxmi Nagar,Yamuna Bank,21,Student,6.9,19,16,Token
+214,2026-04-13,Red,Dwarka Sector 10,Saket,55,Student,34.8,75,61,QR Ticket
+215,2026-08-29,Magenta,AIIMS,Janakpuri West,22,Tourist,39.4,84,89,Token
+216,2026-01-06,Red,New Delhi,Civil Lines,54,Student,31.3,68,55,Mobile App
+217,2026-05-27,Red,Janakpuri West,Kirti Nagar,60,Senior Citizen,19.1,43,34,Token
+218,2026-03-22,Blue,Malviya Nagar,Dwarka Sector 21,56,Senior Citizen,11.2,27,22,Token
+219,2026-04-04,Violet,IFFCO Chowk,Guru Dronacharya,41,Regular,23.2,51,56,Mobile App
+220,2026-01-27,Magenta,Rajiv Chowk,Noida Sector 18,66,Regular,7.9,21,26,Token
+221,2026-07-05,Green,Mandi House,MG Road,19,Student,30.9,67,54,Mobile App
+222,2026-11-08,Blue,Nirman Vihar,MG Road,37,Tourist,12.6,30,35,Smart Card
+223,2026-06-16,Yellow,Dwarka Sector 10,New Delhi,51,Tourist,10.6,26,31,Smart Card
+224,2026-06-17,Green,Rajouri Garden,MG Road,49,Senior Citizen,8.9,23,18,Token
+225,2026-10-04,Magenta,Kirti Nagar,Rajiv Chowk,25,Regular,25.7,56,61,Smart Card
+226,2026-10-06,Yellow,Yamuna Bank,Vishwavidyalaya,50,Senior Citizen,37.7,80,62,QR Ticket
+227,2026-03-25,Violet,Dwarka Sector 10,Rohini West,20,Tourist,14.7,34,39,Token
+228,2026-12-28,Yellow,Botanical Garden,Malviya Nagar,44,Monthly Pass,39.1,83,0,Smart Card
+229,2026-02-02,Green,Noida City Centre,Malviya Nagar,51,Regular,29.6,64,69,Smart Card
+230,2026-04-12,Green,MG Road,Kashmere Gate,49,Tourist,29.6,64,69,Token
+231,2026-07-03,Magenta,AIIMS,Laxmi Nagar,28,Tourist,23.5,52,57,QR Ticket
+232,2026-10-21,Magenta,Janakpuri West,Laxmi Nagar,47,Regular,23.5,52,57,Smart Card
+233,2026-10-05,Magenta,Civil Lines,Rajiv Chowk,56,Senior Citizen,30.4,66,51,Smart Card
+234,2026-12-30,Yellow,Laxmi Nagar,Rajiv Chowk,36,Senior Citizen,5.5,16,13,Smart Card
+235,2026-01-28,Green,Chandni Chowk,Rohini West,65,Tourist,17.5,40,45,Mobile App
+236,2026-11-16,Blue,Janakpuri West,Yamuna Bank,67,Student,35.6,76,62,QR Ticket
+237,2026-06-23,Violet,Hauz Khas,Noida Sector 18,52,Regular,29.5,64,69,Token
+238,2026-12-19,Green,Rohini West,Kashmere Gate,39,Regular,11.8,29,34,Token
+239,2026-07-23,Magenta,Rajiv Chowk,Mandi House,32,Senior Citizen,16.3,38,29,Token
+240,2026-09-23,Yellow,Saket,Nirman Vihar,56,Regular,28.8,63,68,QR Ticket
+241,2026-11-15,Violet,Rajiv Chowk,Samaypur Badli,62,Senior Citizen,13.4,32,25,Smart Card
+242,2026-02-09,Violet,Rajouri Garden,Malviya Nagar,67,Monthly Pass,32.1,69,0,Mobile App
+243,2026-08-17,Blue,AIIMS,Guru Dronacharya,19,Regular,32.1,69,74,Mobile App
+244,2026-01-17,Green,Dwarka Sector 10,Hauz Khas,49,Monthly Pass,20.5,46,0,Smart Card
+245,2026-11-12,Blue,MG Road,New Delhi,48,Tourist,31.4,68,73,Token
+246,2026-01-30,Red,Rajiv Chowk,Chandni Chowk,38,Monthly Pass,8.3,22,0,QR Ticket
+247,2026-02-14,Blue,Kashmere Gate,IFFCO Chowk,16,Regular,2.1,9,14,QR Ticket
+248,2026-02-06,Yellow,Civil Lines,Vishwavidyalaya,64,Senior Citizen,21.3,48,37,QR Ticket
+249,2026-02-09,Green,Dwarka Sector 21,HUDA City Centre,38,Senior Citizen,9,23,19,QR Ticket
+250,2026-12-30,Magenta,Anand Vihar,Sikanderpur,34,Regular,20.3,46,51,Token
+251,2026-05-13,Red,Qutub Minar,Qutub Minar,36,Monthly Pass,27.3,60,0,Mobile App
+252,2026-07-14,Yellow,Qutub Minar,Chandni Chowk,41,Tourist,38.3,82,87,Mobile App
+253,2026-02-10,Blue,Anand Vihar,New Delhi,38,Tourist,3.5,12,17,QR Ticket
+254,2026-12-22,Magenta,Noida City Centre,IFFCO Chowk,47,Student,16.2,37,31,QR Ticket
+255,2026-10-20,Green,Rajouri Garden,Janakpuri West,35,Regular,7.1,19,24,Smart Card
+256,2026-06-17,Magenta,Noida Sector 18,Saket,67,Monthly Pass,7,19,0,Token
+257,2026-02-05,Magenta,Vishwavidyalaya,IFFCO Chowk,46,Student,33.8,73,59,QR Ticket
+258,2026-06-30,Blue,Rithala,MG Road,24,Monthly Pass,28.6,62,0,Token
+259,2026-01-04,Violet,Central Secretariat,Qutub Minar,36,Senior Citizen,37.1,79,61,Smart Card
+260,2026-07-05,Blue,Qutub Minar,HUDA City Centre,67,Regular,26.7,58,63,Smart Card
+261,2026-07-22,Blue,Kashmere Gate,Noida Sector 18,25,Monthly Pass,5.8,17,0,Smart Card
+262,2026-06-19,Green,Qutub Minar,Rajouri Garden,29,Monthly Pass,9.4,24,0,QR Ticket
+263,2026-01-29,Yellow,Rohini West,Chandni Chowk,35,Senior Citizen,14.6,34,27,Smart Card
+264,2026-08-29,Magenta,Yamuna Bank,Central Secretariat,52,Senior Citizen,16,37,29,Token
+265,2026-02-24,Magenta,Central Secretariat,Dwarka Sector 10,23,Senior Citizen,23.7,52,41,Token
+266,2026-06-15,Red,Sikanderpur,Rithala,26,Student,29.9,65,53,QR Ticket
+267,2026-05-18,Red,Botanical Garden,Botanical Garden,37,Student,34,73,59,QR Ticket
+268,2026-04-18,Blue,Janakpuri West,HUDA City Centre,67,Tourist,14.8,35,40,Mobile App
+269,2026-12-09,Yellow,Janakpuri West,Yamuna Bank,47,Monthly Pass,15.8,37,0,Token
+270,2026-05-13,Red,Nirman Vihar,Guru Dronacharya,24,Senior Citizen,28.3,62,47,Token
+271,2026-07-12,Yellow,Noida Sector 15,Laxmi Nagar,43,Senior Citizen,2.5,10,9,QR Ticket
+272,2026-08-22,Yellow,Samaypur Badli,Rithala,26,Senior Citizen,24.5,54,42,QR Ticket
+273,2026-01-06,Red,Rohini West,Noida Sector 18,16,Student,24.2,53,44,QR Ticket
+274,2026-04-17,Violet,Central Secretariat,Central Secretariat,58,Tourist,8.3,22,27,QR Ticket
+275,2026-01-23,Magenta,Guru Dronacharya,Chandni Chowk,51,Student,35,75,61,Mobile App
+276,2026-06-28,Yellow,HUDA City Centre,Vishwavidyalaya,28,Tourist,31.8,69,74,Smart Card
+277,2026-07-03,Magenta,Saket,Laxmi Nagar,67,Student,15.1,35,29,QR Ticket
+278,2026-06-16,Yellow,Noida Sector 18,Anand Vihar,28,Monthly Pass,25.5,56,0,Token
+279,2026-07-12,Yellow,Noida Sector 18,Sikanderpur,28,Monthly Pass,36.9,79,0,Token
+280,2026-11-12,Yellow,Rajiv Chowk,Saket,26,Regular,35.4,76,81,Mobile App
+281,2026-05-01,Blue,Kirti Nagar,Civil Lines,15,Tourist,28.2,61,66,Mobile App
+282,2026-11-18,Red,Kashmere Gate,Rithala,55,Monthly Pass,28.6,62,0,Mobile App
+283,2026-02-21,Green,Sikanderpur,Guru Dronacharya,27,Monthly Pass,27.4,60,0,Token
+284,2026-04-18,Green,Dwarka Sector 10,AIIMS,51,Regular,32.9,71,76,Mobile App
+285,2026-09-30,Blue,Kirti Nagar,Rajouri Garden,57,Tourist,37.6,80,85,Smart Card
+286,2026-08-14,Green,Malviya Nagar,Rithala,17,Regular,36.6,78,83,Mobile App
+287,2026-01-15,Red,Rithala,Vishwavidyalaya,43,Senior Citizen,15.3,36,28,Token
+288,2026-02-06,Magenta,Janakpuri West,Saket,67,Regular,27.5,60,65,Smart Card
+289,2026-03-29,Red,Central Secretariat,AIIMS,33,Regular,15.1,35,40,QR Ticket
+290,2026-09-02,Yellow,New Delhi,Noida City Centre,57,Monthly Pass,35.7,76,0,Smart Card
+291,2026-08-25,Green,Yamuna Bank,AIIMS,32,Tourist,13.7,32,37,QR Ticket
+292,2026-11-07,Green,Noida City Centre,Central Secretariat,37,Regular,2.8,11,16,QR Ticket
+293,2026-07-05,Violet,Rohini West,Noida City Centre,28,Tourist,32.8,71,76,Token
+294,2026-12-03,Green,Civil Lines,Yamuna Bank,15,Regular,13.4,32,37,Smart Card
+295,2026-02-28,Green,Vishwavidyalaya,Vishwavidyalaya,57,Student,23,51,42,Token
+296,2026-07-25,Magenta,Noida Sector 15,Rithala,51,Senior Citizen,16.1,37,29,Mobile App
+297,2026-08-30,Green,Rajiv Chowk,Hauz Khas,60,Regular,7.1,19,24,QR Ticket
+298,2026-10-31,Green,Samaypur Badli,HUDA City Centre,25,Tourist,20.6,46,51,Smart Card
+299,2026-05-15,Red,Botanical Garden,Kirti Nagar,19,Senior Citizen,26.8,59,45,Mobile App
+300,2026-10-13,Green,Kashmere Gate,Malviya Nagar,46,Senior Citizen,23.1,51,40,QR Ticket
+301,2026-05-31,Red,Central Secretariat,Janakpuri West,55,Senior Citizen,12.7,30,24,Mobile App
+302,2026-09-23,Magenta,Dwarka Sector 21,Dwarka Sector 10,48,Senior Citizen,33.5,72,55,Smart Card
+303,2026-11-05,Red,Hauz Khas,Janakpuri West,66,Tourist,39.5,84,89,Token
+304,2026-06-14,Magenta,Samaypur Badli,Dwarka Sector 21,70,Senior Citizen,36.8,79,60,Smart Card
+305,2026-06-23,Magenta,Rajiv Chowk,Laxmi Nagar,64,Student,22.8,51,41,QR Ticket
+306,2026-06-16,Yellow,Hauz Khas,Kashmere Gate,40,Tourist,10.4,26,31,Token
+307,2026-10-08,Violet,Kirti Nagar,Malviya Nagar,61,Senior Citizen,2.7,10,9,Mobile App
+308,2026-06-14,Red,Janakpuri West,HUDA City Centre,68,Regular,8.6,22,27,Smart Card
+309,2026-02-06,Red,Kashmere Gate,Kirti Nagar,43,Monthly Pass,29.7,64,0,Smart Card
+310,2026-03-09,Blue,Central Secretariat,Dwarka Sector 21,54,Monthly Pass,18.1,41,0,Mobile App
+311,2026-07-20,Blue,Chandni Chowk,MG Road,62,Monthly Pass,32.6,70,0,Mobile App
+312,2026-02-16,Yellow,Qutub Minar,Kashmere Gate,67,Student,11.1,27,23,Token
+313,2026-07-17,Magenta,Yamuna Bank,New Delhi,28,Regular,2.2,9,14,Mobile App
+314,2026-01-17,Yellow,Qutub Minar,Dwarka Sector 21,31,Student,17.6,40,33,Smart Card
+315,2026-12-12,Violet,Rohini West,MG Road,41,Regular,2.5,10,15,Smart Card
+316,2026-05-16,Blue,Mandi House,Chandni Chowk,26,Student,2.3,10,9,Mobile App
+317,2026-06-12,Red,Guru Dronacharya,Qutub Minar,63,Student,31.9,69,56,Mobile App
+318,2026-11-01,Red,New Delhi,Noida City Centre,25,Monthly Pass,35.3,76,0,Mobile App
+319,2026-02-02,Yellow,Noida City Centre,Noida City Centre,34,Tourist,17.2,39,44,QR Ticket
+320,2026-08-20,Magenta,Janakpuri West,Yamuna Bank,23,Senior Citizen,4.6,14,12,Mobile App
+321,2026-03-27,Magenta,Noida City Centre,Botanical Garden,38,Student,24.2,53,44,Smart Card
+322,2026-06-08,Red,Dwarka Sector 10,Hauz Khas,28,Monthly Pass,31.7,68,0,Token
+323,2026-07-23,Magenta,Qutub Minar,Civil Lines,60,Regular,17.6,40,45,Token
+324,2026-03-06,Blue,Botanical Garden,Guru Dronacharya,44,Monthly Pass,13.7,32,0,Mobile App
+325,2026-08-29,Red,Rithala,Rithala,35,Senior Citizen,8.3,22,17,Token
+326,2026-07-15,Yellow,Yamuna Bank,Rohini West,34,Regular,8.4,22,27,Mobile App
+327,2026-10-26,Violet,Botanical Garden,Hauz Khas,41,Monthly Pass,21.1,47,0,Mobile App
+328,2026-05-26,Blue,Noida Sector 15,Sikanderpur,36,Monthly Pass,21.4,48,0,Mobile App
+329,2026-11-06,Red,Dwarka Sector 10,Rajiv Chowk,45,Regular,22.3,50,55,Smart Card
+330,2026-11-11,Magenta,AIIMS,New Delhi,48,Tourist,32.4,70,75,Token
+331,2026-09-16,Yellow,Dwarka Sector 21,Chandni Chowk,55,Monthly Pass,8.2,21,0,Mobile App
+332,2026-03-15,Violet,Kashmere Gate,Civil Lines,23,Senior Citizen,35,75,58,Token
+333,2026-06-23,Violet,Hauz Khas,Qutub Minar,15,Tourist,32.7,70,75,Smart Card
+334,2026-01-19,Magenta,New Delhi,AIIMS,60,Tourist,3.6,12,17,Smart Card
+335,2026-01-02,Magenta,Civil Lines,Civil Lines,44,Regular,30.2,65,70,QR Ticket
+336,2026-12-06,Yellow,Laxmi Nagar,Vishwavidyalaya,49,Regular,9.4,24,29,Smart Card
+337,2026-08-09,Violet,Laxmi Nagar,Kirti Nagar,55,Senior Citizen,7.1,19,16,Smart Card
+338,2026-01-25,Green,AIIMS,Civil Lines,29,Regular,4.1,13,18,Smart Card
+339,2026-05-09,Red,Noida Sector 15,Central Secretariat,33,Student,6.5,18,15,Mobile App
+340,2026-04-19,Blue,AIIMS,Mandi House,43,Senior Citizen,34.5,74,57,Token
+341,2026-02-06,Red,Rajouri Garden,Vishwavidyalaya,70,Senior Citizen,18.8,43,33,Token
+342,2026-11-06,Blue,Anand Vihar,AIIMS,45,Monthly Pass,33.6,72,0,QR Ticket
+343,2026-09-19,Yellow,Botanical Garden,Rithala,47,Student,33.4,72,58,Token
+344,2026-01-02,Green,Yamuna Bank,HUDA City Centre,55,Regular,21.7,48,53,Mobile App
+345,2026-09-05,Green,Noida Sector 15,MG Road,39,Regular,15,35,40,QR Ticket
+346,2026-03-08,Green,Anand Vihar,HUDA City Centre,59,Tourist,37.3,80,85,Smart Card
+347,2026-12-05,Violet,Hauz Khas,Kirti Nagar,46,Tourist,28.7,62,67,Smart Card
+348,2026-03-21,Yellow,Yamuna Bank,IFFCO Chowk,26,Senior Citizen,22.1,49,38,Smart Card
+349,2026-07-12,Magenta,Janakpuri West,Noida Sector 18,62,Senior Citizen,31.6,68,52,Smart Card
+350,2026-11-24,Red,Kashmere Gate,Noida Sector 15,34,Senior Citizen,21.8,49,38,Smart Card
+351,2026-09-27,Red,HUDA City Centre,Anand Vihar,29,Monthly Pass,6.6,18,0,Token
+352,2026-01-26,Blue,Botanical Garden,Vishwavidyalaya,36,Tourist,5.9,17,22,QR Ticket
+353,2026-04-30,Green,Samaypur Badli,Malviya Nagar,66,Senior Citizen,14.1,33,26,QR Ticket
+354,2026-09-05,Red,Kirti Nagar,Civil Lines,53,Tourist,24.3,54,59,Mobile App
+355,2026-10-01,Yellow,Nirman Vihar,Anand Vihar,29,Regular,34.6,74,79,Mobile App
+356,2026-01-14,Blue,Central Secretariat,IFFCO Chowk,21,Student,8.3,22,18,QR Ticket
+357,2026-04-18,Green,Botanical Garden,Mandi House,28,Tourist,29.9,65,70,Token
+358,2026-07-31,Green,Malviya Nagar,Rajouri Garden,15,Monthly Pass,34.9,75,0,Mobile App
+359,2026-03-30,Yellow,Noida City Centre,Central Secretariat,45,Tourist,23.2,51,56,Smart Card
+360,2026-04-24,Red,Yamuna Bank,Botanical Garden,27,Senior Citizen,13.7,32,26,Token
+361,2026-10-24,Green,Nirman Vihar,Mandi House,17,Monthly Pass,6.7,18,0,QR Ticket
+362,2026-01-08,Magenta,Janakpuri West,HUDA City Centre,15,Student,4.1,13,12,Token
+363,2026-06-03,Red,MG Road,Vishwavidyalaya,59,Senior Citizen,5.7,16,14,Smart Card
+364,2026-05-18,Green,Rajiv Chowk,Botanical Garden,20,Regular,23.2,51,56,Token
+365,2026-08-08,Green,Saket,IFFCO Chowk,46,Senior Citizen,35.4,76,58,QR Ticket
+366,2026-11-02,Red,Saket,Samaypur Badli,33,Tourist,34.2,73,78,Mobile App
+367,2026-01-27,Yellow,Janakpuri West,Sikanderpur,61,Student,35.3,76,61,Mobile App
+368,2026-03-28,Magenta,Nirman Vihar,IFFCO Chowk,49,Regular,34.9,75,80,QR Ticket
+369,2026-10-25,Red,Anand Vihar,Botanical Garden,33,Student,36.2,77,63,Mobile App
+370,2026-10-23,Yellow,Rajouri Garden,Rohini West,33,Student,15.5,36,30,QR Ticket
+371,2026-10-02,Magenta,Rohini West,Mandi House,16,Regular,19.5,44,49,QR Ticket
+372,2026-11-07,Red,IFFCO Chowk,Malviya Nagar,52,Monthly Pass,21,47,0,Smart Card
+373,2026-04-26,Magenta,Rajiv Chowk,AIIMS,61,Tourist,33.6,72,77,QR Ticket
+374,2026-04-01,Magenta,IFFCO Chowk,Civil Lines,22,Senior Citizen,34.3,74,56,Smart Card
+375,2026-08-24,Violet,Saket,AIIMS,23,Monthly Pass,34.4,74,0,Mobile App
+376,2026-08-14,Yellow,Samaypur Badli,Rithala,39,Senior Citizen,3.3,12,10,QR Ticket
+377,2026-10-13,Blue,Laxmi Nagar,New Delhi,33,Senior Citizen,37.6,80,61,Token
+378,2026-04-18,Blue,Nirman Vihar,Janakpuri West,68,Monthly Pass,17.7,40,0,Mobile App
+379,2026-02-08,Violet,New Delhi,Saket,66,Regular,11.4,28,33,Token
+380,2026-05-05,Magenta,Rithala,Dwarka Sector 21,45,Senior Citizen,29.8,65,50,Token
+381,2026-04-02,Green,Vishwavidyalaya,Janakpuri West,50,Monthly Pass,21.2,47,0,QR Ticket
+382,2026-09-28,Green,Saket,Vishwavidyalaya,30,Monthly Pass,39.3,84,0,Token
+383,2026-03-09,Yellow,Rajiv Chowk,AIIMS,66,Student,31.7,68,56,QR Ticket
+384,2026-08-06,Magenta,Laxmi Nagar,IFFCO Chowk,70,Student,9.4,24,20,Token
+385,2026-03-24,Magenta,Qutub Minar,Hauz Khas,40,Senior Citizen,19.6,44,34,Smart Card
+386,2026-02-09,Violet,Central Secretariat,Chandni Chowk,33,Regular,18.8,43,48,Token
+387,2026-06-18,Yellow,Noida City Centre,Dwarka Sector 10,55,Regular,3.5,12,17,Token
+388,2026-09-24,Yellow,Nirman Vihar,New Delhi,56,Monthly Pass,20.6,46,0,Mobile App
+389,2026-07-16,Blue,Qutub Minar,IFFCO Chowk,42,Monthly Pass,34.8,75,0,Token
+390,2026-08-13,Green,IFFCO Chowk,Vishwavidyalaya,63,Student,34.4,74,60,QR Ticket
+391,2026-12-06,Blue,Noida Sector 18,HUDA City Centre,61,Regular,30.9,67,72,Mobile App
+392,2026-01-23,Magenta,Laxmi Nagar,Laxmi Nagar,51,Regular,5.6,16,21,QR Ticket
+393,2026-05-03,Blue,Malviya Nagar,Noida City Centre,17,Regular,25.1,55,60,Token
+394,2026-09-08,Blue,Yamuna Bank,Rajiv Chowk,32,Regular,12.3,30,35,Mobile App
+395,2026-04-23,Red,Dwarka Sector 21,Guru Dronacharya,43,Student,28.7,62,51,Mobile App
+396,2026-10-17,Violet,Hauz Khas,Noida City Centre,54,Tourist,31.2,67,72,Token
+397,2026-10-28,Yellow,MG Road,Nirman Vihar,38,Regular,32.8,71,76,Token
+398,2026-05-18,Magenta,IFFCO Chowk,Yamuna Bank,46,Regular,18.7,42,47,Token
+399,2026-09-20,Red,AIIMS,Rajiv Chowk,68,Student,37.6,80,65,Smart Card
+400,2026-08-15,Magenta,Noida City Centre,Noida Sector 18,44,Regular,35.7,76,81,Mobile App
+401,2026-09-18,Green,Civil Lines,Civil Lines,22,Senior Citizen,34.5,74,57,Smart Card
+402,2026-05-11,Blue,Nirman Vihar,Anand Vihar,24,Senior Citizen,22.7,50,39,QR Ticket
+403,2026-07-24,Red,Nirman Vihar,Hauz Khas,35,Regular,32.1,69,74,Mobile App
+404,2026-12-04,Blue,Qutub Minar,IFFCO Chowk,66,Monthly Pass,37.9,81,0,QR Ticket
+405,2026-06-09,Magenta,Vishwavidyalaya,Anand Vihar,52,Tourist,12.5,30,35,Mobile App
+406,2026-03-25,Green,Rohini West,Noida Sector 18,47,Tourist,23.9,53,58,Token
+407,2026-11-08,Magenta,Hauz Khas,Nirman Vihar,42,Student,21,47,39,Smart Card
+408,2026-03-13,Magenta,Janakpuri West,Botanical Garden,27,Student,34.3,74,60,Mobile App
+409,2026-11-02,Blue,Mandi House,Chandni Chowk,26,Monthly Pass,11.6,28,0,QR Ticket
+410,2026-04-23,Green,Yamuna Bank,AIIMS,64,Tourist,39.5,84,89,Token
+411,2026-03-11,Red,IFFCO Chowk,Rithala,25,Tourist,10.3,26,31,Smart Card
+412,2026-08-31,Magenta,MG Road,HUDA City Centre,54,Regular,10.3,26,31,Smart Card
+413,2026-04-10,Blue,Qutub Minar,Malviya Nagar,62,Student,31.4,68,55,QR Ticket
+414,2026-11-14,Yellow,Yamuna Bank,Yamuna Bank,64,Regular,10,25,30,Smart Card
+415,2026-06-23,Blue,Rajiv Chowk,Rithala,26,Senior Citizen,39.6,84,64,Mobile App
+416,2026-01-24,Blue,New Delhi,HUDA City Centre,69,Student,7,19,16,Smart Card
+417,2026-07-26,Magenta,MG Road,IFFCO Chowk,37,Tourist,6.8,19,24,Token
+418,2026-12-29,Magenta,Nirman Vihar,Dwarka Sector 10,48,Monthly Pass,2.6,10,0,Token
+419,2026-07-05,Blue,Dwarka Sector 10,Samaypur Badli,25,Student,28.1,61,50,QR Ticket
+420,2026-03-29,Blue,Dwarka Sector 21,Rohini West,25,Senior Citizen,32.9,71,54,Mobile App
+421,2026-02-24,Blue,HUDA City Centre,Kirti Nagar,15,Monthly Pass,22.3,50,0,Mobile App
+422,2026-12-09,Blue,Rithala,Samaypur Badli,57,Senior Citizen,13.8,33,26,Smart Card
+423,2026-10-12,Green,New Delhi,Qutub Minar,18,Senior Citizen,26.5,58,45,Mobile App
+424,2026-07-07,Blue,Samaypur Badli,HUDA City Centre,45,Monthly Pass,33.5,72,0,Mobile App
+425,2026-04-04,Red,Sikanderpur,Hauz Khas,49,Monthly Pass,5.6,16,0,QR Ticket
+426,2026-10-06,Blue,Saket,Hauz Khas,53,Regular,38.8,83,88,Mobile App
+427,2026-06-03,Yellow,Kirti Nagar,Malviya Nagar,61,Senior Citizen,14.3,34,26,QR Ticket
+428,2026-09-15,Red,Noida City Centre,Malviya Nagar,61,Regular,23.8,53,58,Mobile App
+429,2026-02-07,Yellow,AIIMS,Noida Sector 18,23,Regular,30.8,67,72,QR Ticket
+430,2026-12-25,Violet,Dwarka Sector 10,Rajiv Chowk,52,Student,5.4,16,14,QR Ticket
+431,2026-11-19,Red,Dwarka Sector 10,AIIMS,29,Tourist,13.8,33,38,Mobile App
+432,2026-09-24,Magenta,Noida Sector 18,Nirman Vihar,66,Student,27.9,61,50,Token
+433,2026-08-17,Blue,Rohini West,Malviya Nagar,33,Monthly Pass,33.5,72,0,Token
+434,2026-02-06,Green,Central Secretariat,IFFCO Chowk,34,Regular,23.7,52,57,Mobile App
+435,2026-09-29,Violet,Laxmi Nagar,AIIMS,60,Senior Citizen,9.7,24,20,Mobile App
+436,2026-01-15,Blue,Rajouri Garden,Malviya Nagar,54,Student,22.8,51,41,Mobile App
+437,2026-09-07,Yellow,Guru Dronacharya,Kirti Nagar,43,Student,11.3,28,23,QR Ticket
+438,2026-02-19,Magenta,Rajouri Garden,New Delhi,63,Tourist,7.6,20,25,Token
+439,2026-01-08,Violet,Rohini West,IFFCO Chowk,63,Student,16.6,38,32,Mobile App
+440,2026-12-29,Red,Noida Sector 15,Kirti Nagar,52,Student,7.8,21,17,QR Ticket
+441,2026-09-12,Magenta,Kashmere Gate,Rajouri Garden,63,Senior Citizen,22.7,50,39,Smart Card
+442,2026-10-06,Magenta,Rajiv Chowk,Rohini West,19,Tourist,2.7,10,15,Mobile App
+443,2026-07-24,Magenta,MG Road,Noida Sector 15,58,Monthly Pass,18.7,42,0,Token
+444,2026-02-28,Red,Kirti Nagar,Rajiv Chowk,16,Senior Citizen,9,23,19,QR Ticket
+445,2026-11-04,Violet,Rohini West,Kashmere Gate,18,Regular,36.3,78,83,Mobile App
+446,2026-01-06,Violet,AIIMS,Civil Lines,67,Senior Citizen,24,53,41,Smart Card
+447,2026-05-21,Yellow,Kashmere Gate,AIIMS,46,Student,6.1,17,15,Mobile App
+448,2026-11-29,Violet,AIIMS,Central Secretariat,67,Tourist,22.2,49,54,Smart Card
+449,2026-02-03,Red,IFFCO Chowk,Botanical Garden,31,Monthly Pass,13.6,32,0,Smart Card
+450,2026-05-23,Yellow,AIIMS,MG Road,18,Senior Citizen,32.9,71,54,QR Ticket
+451,2026-12-26,Green,Kirti Nagar,Noida Sector 15,54,Monthly Pass,7.5,20,0,Smart Card
+452,2026-09-09,Yellow,Noida Sector 18,Sikanderpur,48,Monthly Pass,23.5,52,0,Token
+453,2026-03-28,Red,Chandni Chowk,Rajouri Garden,64,Regular,12.8,31,36,Token
+454,2026-02-23,Magenta,IFFCO Chowk,Dwarka Sector 21,46,Regular,37.7,80,85,Mobile App
+455,2026-08-20,Red,Botanical Garden,Sikanderpur,37,Student,7.1,19,16,Mobile App
+456,2026-06-27,Yellow,Malviya Nagar,Laxmi Nagar,19,Regular,20.3,46,51,Mobile App
+457,2026-04-21,Blue,Noida Sector 18,Laxmi Nagar,60,Student,37.6,80,65,QR Ticket
+458,2026-02-13,Violet,Yamuna Bank,Mandi House,43,Senior Citizen,13.6,32,25,Smart Card
+459,2026-03-03,Yellow,AIIMS,Rohini West,17,Student,35,75,61,QR Ticket
+460,2026-05-17,Yellow,Guru Dronacharya,Noida Sector 18,58,Student,30.9,67,54,Token
+461,2026-03-04,Magenta,Kashmere Gate,IFFCO Chowk,50,Senior Citizen,31.5,68,52,QR Ticket
+462,2026-05-29,Magenta,Guru Dronacharya,Guru Dronacharya,70,Student,2.1,9,8,Token
+463,2026-06-02,Red,Yamuna Bank,Guru Dronacharya,16,Senior Citizen,32.6,70,54,QR Ticket
+464,2026-10-23,Yellow,Rajiv Chowk,Janakpuri West,29,Senior Citizen,21.4,48,37,Mobile App
+465,2026-07-08,Blue,Janakpuri West,Dwarka Sector 10,58,Regular,19.5,44,49,QR Ticket
+466,2026-08-09,Magenta,AIIMS,Kirti Nagar,64,Monthly Pass,11.6,28,0,Token
+467,2026-10-12,Yellow,Kashmere Gate,Kashmere Gate,19,Regular,4.9,15,20,QR Ticket
+468,2026-06-18,Red,Noida Sector 15,Sikanderpur,54,Monthly Pass,22.1,49,0,Token
+469,2026-02-25,Violet,Chandni Chowk,Mandi House,43,Monthly Pass,24,53,0,Smart Card
+470,2026-11-13,Violet,Saket,Central Secretariat,38,Senior Citizen,29,63,49,Mobile App
+471,2026-04-06,Green,Dwarka Sector 10,Rajiv Chowk,62,Student,24.8,55,45,Token
+472,2026-02-18,Blue,Hauz Khas,Dwarka Sector 21,55,Senior Citizen,27.1,59,46,Mobile App
+473,2026-02-21,Magenta,Noida Sector 18,Rithala,19,Senior Citizen,26.3,58,44,Mobile App
+474,2026-08-02,Blue,Rajiv Chowk,HUDA City Centre,35,Monthly Pass,26.3,58,0,Mobile App
+475,2026-05-24,Green,New Delhi,Qutub Minar,31,Student,13.4,32,26,Mobile App
+476,2026-11-19,Blue,Rohini West,Vishwavidyalaya,33,Tourist,25.4,56,61,Mobile App
+477,2026-06-06,Green,Malviya Nagar,Noida Sector 18,26,Student,21.4,48,39,Mobile App
+478,2026-12-17,Green,Central Secretariat,Noida Sector 15,39,Tourist,6.8,19,24,QR Ticket
+479,2026-10-14,Red,Rajouri Garden,Noida City Centre,47,Tourist,3.1,11,16,Mobile App
+480,2026-05-30,Magenta,Kirti Nagar,Malviya Nagar,69,Student,18.2,41,34,Smart Card
+481,2026-12-18,Green,Chandni Chowk,Laxmi Nagar,56,Student,6.4,18,15,Mobile App
+482,2026-02-20,Blue,Rithala,Dwarka Sector 10,63,Monthly Pass,23.3,52,0,Mobile App
+483,2026-11-12,Green,Saket,Saket,21,Regular,7.4,20,25,QR Ticket
+484,2026-02-12,Violet,AIIMS,Sikanderpur,66,Student,25.6,56,46,Token
+485,2026-02-23,Blue,Rajouri Garden,Hauz Khas,67,Tourist,34.7,74,79,Smart Card
+486,2026-11-16,Blue,IFFCO Chowk,Qutub Minar,30,Monthly Pass,14.9,35,0,Smart Card
+487,2026-03-31,Yellow,Kirti Nagar,Malviya Nagar,15,Monthly Pass,20.9,47,0,Mobile App
+488,2026-08-12,Green,Sikanderpur,Central Secretariat,25,Monthly Pass,31.3,68,0,Token
+489,2026-12-01,Blue,Saket,Samaypur Badli,34,Tourist,36.7,78,83,Smart Card
+490,2026-12-18,Yellow,Noida Sector 15,Hauz Khas,59,Senior Citizen,18.4,42,33,QR Ticket
+491,2026-02-22,Yellow,Sikanderpur,IFFCO Chowk,31,Monthly Pass,29.4,64,0,QR Ticket
+492,2026-03-27,Yellow,Dwarka Sector 21,HUDA City Centre,18,Senior Citizen,11.8,29,23,Smart Card
+493,2026-06-09,Green,MG Road,Sikanderpur,35,Monthly Pass,36.1,77,0,Token
+494,2026-05-19,Green,Central Secretariat,Laxmi Nagar,68,Monthly Pass,21.1,47,0,Smart Card
+495,2026-05-20,Yellow,IFFCO Chowk,Dwarka Sector 21,33,Student,16.6,38,32,Mobile App
+496,2026-07-26,Green,Mandi House,Rajiv Chowk,61,Student,11.2,27,23,Token
+497,2026-04-30,Violet,Anand Vihar,New Delhi,58,Monthly Pass,8,21,0,Mobile App
+498,2026-06-11,Magenta,Dwarka Sector 21,AIIMS,47,Tourist,2.4,10,15,Mobile App
+499,2026-09-27,Violet,Sikanderpur,Anand Vihar,49,Student,31.1,67,55,Token
+500,2026-05-17,Yellow,HUDA City Centre,Yamuna Bank,49,Regular,15.8,37,42,Mobile App
+501,2026-04-25,Violet,Dwarka Sector 21,Janakpuri West,70,Senior Citizen,9.6,24,19,Token
+502,2026-03-11,Green,Sikanderpur,Anand Vihar,30,Regular,20.6,46,51,QR Ticket
+503,2026-06-06,Magenta,Noida City Centre,Botanical Garden,55,Student,38.2,81,66,Token
+504,2026-09-12,Violet,Samaypur Badli,HUDA City Centre,16,Monthly Pass,39.2,83,0,Smart Card
+505,2026-05-17,Magenta,Rithala,Malviya Nagar,15,Tourist,3.1,11,16,Mobile App
+506,2026-10-12,Violet,Anand Vihar,IFFCO Chowk,60,Student,3.6,12,11,QR Ticket
+507,2026-11-14,Red,Yamuna Bank,MG Road,57,Tourist,25.3,56,61,Smart Card
+508,2026-02-01,Green,Nirman Vihar,Rajiv Chowk,29,Student,13.3,32,26,QR Ticket
+509,2026-09-26,Red,Chandni Chowk,Rajouri Garden,65,Student,36.9,79,64,Smart Card
+510,2026-01-17,Red,Vishwavidyalaya,Anand Vihar,36,Tourist,12,29,34,Token
+511,2026-12-24,Red,Malviya Nagar,Janakpuri West,31,Monthly Pass,3.3,12,0,Token
+512,2026-10-18,Blue,Rajiv Chowk,IFFCO Chowk,34,Tourist,35.8,77,82,Mobile App
+513,2026-11-23,Green,Vishwavidyalaya,Sikanderpur,31,Senior Citizen,20.6,46,36,QR Ticket
+514,2026-11-05,Yellow,Dwarka Sector 10,Guru Dronacharya,63,Senior Citizen,28.6,62,48,Smart Card
+515,2026-12-01,Violet,IFFCO Chowk,HUDA City Centre,45,Tourist,7.1,19,24,QR Ticket
+516,2026-10-30,Yellow,Sikanderpur,MG Road,64,Monthly Pass,12.6,30,0,Mobile App
+517,2026-09-17,Yellow,Anand Vihar,Qutub Minar,49,Monthly Pass,37.7,80,0,Mobile App
+518,2026-01-11,Yellow,IFFCO Chowk,Laxmi Nagar,23,Monthly Pass,39,83,0,Mobile App
+519,2026-09-14,Violet,Noida City Centre,Laxmi Nagar,64,Regular,28.7,62,67,QR Ticket
+520,2026-06-26,Green,Samaypur Badli,Vishwavidyalaya,36,Regular,12.7,30,35,Token
+521,2026-06-29,Magenta,Hauz Khas,Guru Dronacharya,49,Regular,31.9,69,74,QR Ticket
+522,2026-04-21,Magenta,Kashmere Gate,Botanical Garden,35,Monthly Pass,7.6,20,0,Token
+523,2026-05-12,Yellow,HUDA City Centre,Yamuna Bank,15,Student,22.3,50,41,QR Ticket
+524,2026-08-26,Magenta,Dwarka Sector 10,Rajiv Chowk,64,Regular,29.9,65,70,QR Ticket
+525,2026-01-28,Magenta,Rajiv Chowk,Rohini West,40,Tourist,18.7,42,47,Token
+526,2026-02-10,Green,Civil Lines,Rajouri Garden,62,Monthly Pass,18,41,0,Mobile App
+527,2026-05-17,Red,Rajiv Chowk,Noida Sector 15,37,Tourist,32.6,70,75,Token
+528,2026-09-21,Violet,Laxmi Nagar,Sikanderpur,38,Senior Citizen,27.1,59,46,Smart Card
+529,2026-10-13,Green,Qutub Minar,New Delhi,59,Tourist,26,57,62,Token
+530,2026-04-22,Green,Noida Sector 18,Noida City Centre,47,Monthly Pass,8.1,21,0,Mobile App
+531,2026-04-09,Red,Rajouri Garden,Central Secretariat,18,Senior Citizen,26.6,58,45,Smart Card
+532,2026-02-21,Yellow,Botanical Garden,New Delhi,56,Student,36.9,79,64,Smart Card
+533,2026-03-15,Yellow,Rajiv Chowk,AIIMS,16,Student,39.8,85,69,QR Ticket
+534,2026-04-22,Green,Rohini West,Botanical Garden,32,Senior Citizen,29.4,64,49,Smart Card
+535,2026-10-15,Violet,Janakpuri West,Central Secretariat,15,Senior Citizen,11.3,28,22,Smart Card
+536,2026-10-06,Magenta,Samaypur Badli,Rajouri Garden,17,Regular,32.9,71,76,QR Ticket
+537,2026-03-21,Yellow,Mandi House,Sikanderpur,15,Student,5.4,16,14,Smart Card
+538,2026-04-04,Green,Janakpuri West,Anand Vihar,33,Regular,29.4,64,69,QR Ticket
+539,2026-05-12,Green,Civil Lines,Vishwavidyalaya,62,Student,16.9,39,32,Mobile App
+540,2026-01-14,Blue,New Delhi,IFFCO Chowk,67,Tourist,22.8,51,56,Mobile App
+541,2026-12-08,Violet,Samaypur Badli,Sikanderpur,19,Student,28.9,63,51,Token
+542,2026-04-18,Magenta,Sikanderpur,MG Road,47,Tourist,24.4,54,59,Mobile App
+543,2026-09-08,Red,Noida City Centre,Samaypur Badli,16,Student,2.3,10,9,Token
+544,2026-02-05,Blue,IFFCO Chowk,Rajouri Garden,66,Monthly Pass,33.8,73,0,Token
+545,2026-03-23,Green,Botanical Garden,AIIMS,46,Regular,24.4,54,59,Smart Card
+546,2026-06-17,Yellow,Mandi House,Nirman Vihar,49,Senior Citizen,23.3,52,40,Token
+547,2026-04-08,Violet,Vishwavidyalaya,Anand Vihar,55,Regular,17.3,40,45,QR Ticket
+548,2026-10-31,Blue,Saket,Laxmi Nagar,21,Senior Citizen,26.9,59,45,Token
+549,2026-09-27,Blue,Kashmere Gate,Nirman Vihar,44,Tourist,37.3,80,85,Token
+550,2026-03-02,Magenta,Dwarka Sector 10,Mandi House,52,Regular,31.3,68,73,Token
+551,2026-02-12,Violet,Samaypur Badli,Qutub Minar,16,Senior Citizen,16.7,38,30,Token
+552,2026-04-29,Green,MG Road,Central Secretariat,37,Monthly Pass,16.3,38,0,Mobile App
+553,2026-04-21,Red,MG Road,HUDA City Centre,20,Regular,32,69,74,QR Ticket
+554,2026-09-12,Yellow,Dwarka Sector 10,Qutub Minar,52,Student,33.1,71,58,Token
+555,2026-12-10,Magenta,Mandi House,Rajouri Garden,34,Monthly Pass,21.2,47,0,Mobile App
+556,2026-06-21,Green,Nirman Vihar,Nirman Vihar,21,Senior Citizen,24.3,54,41,Smart Card
+557,2026-05-17,Red,Yamuna Bank,Noida City Centre,46,Monthly Pass,9,23,0,Token
+558,2026-04-30,Blue,Samaypur Badli,Dwarka Sector 10,67,Monthly Pass,37.6,80,0,Smart Card
+559,2026-01-03,Magenta,Anand Vihar,Kirti Nagar,31,Senior Citizen,17,39,31,Mobile App
+560,2026-07-08,Yellow,Kirti Nagar,Civil Lines,59,Regular,23.4,52,57,Smart Card
+561,2026-01-21,Magenta,Civil Lines,Rajouri Garden,40,Senior Citizen,2.1,9,8,Token
+562,2026-04-21,Green,Sikanderpur,Dwarka Sector 10,54,Regular,4.6,14,19,Smart Card
+563,2026-07-12,Violet,AIIMS,Rajouri Garden,19,Tourist,30.6,66,71,Smart Card
+564,2026-12-29,Red,Chandni Chowk,Yamuna Bank,54,Senior Citizen,35,75,58,Token
+565,2026-11-13,Green,IFFCO Chowk,Kirti Nagar,60,Student,33.3,72,58,Token
+566,2026-01-06,Blue,Nirman Vihar,Guru Dronacharya,27,Student,6,17,15,QR Ticket
+567,2026-05-03,Violet,Civil Lines,Mandi House,26,Student,14.1,33,28,Token
+568,2026-07-21,Red,Janakpuri West,Qutub Minar,59,Tourist,16.1,37,42,Smart Card
+569,2026-06-04,Blue,Dwarka Sector 10,Nirman Vihar,29,Tourist,23.9,53,58,QR Ticket
+570,2026-05-12,Red,IFFCO Chowk,Yamuna Bank,21,Tourist,14.1,33,38,Smart Card
+571,2026-03-08,Blue,Guru Dronacharya,Laxmi Nagar,17,Tourist,26.4,58,63,QR Ticket
+572,2026-11-02,Red,Mandi House,Rithala,68,Regular,7.9,21,26,Mobile App
+573,2026-11-18,Blue,Civil Lines,Rohini West,67,Student,14.4,34,28,QR Ticket
+574,2026-04-19,Magenta,Mandi House,Laxmi Nagar,62,Regular,24,53,58,QR Ticket
+575,2026-05-27,Blue,Civil Lines,Hauz Khas,70,Regular,29.4,64,69,QR Ticket
+576,2026-12-04,Yellow,New Delhi,AIIMS,61,Regular,3.5,12,17,QR Ticket
+577,2026-10-18,Yellow,Mandi House,Central Secretariat,41,Monthly Pass,28.2,61,0,Token
+578,2026-11-27,Magenta,Guru Dronacharya,Rithala,40,Regular,2,9,14,Smart Card
+579,2026-04-28,Violet,IFFCO Chowk,Kirti Nagar,51,Tourist,21.2,47,52,Mobile App
+580,2026-05-23,Magenta,Central Secretariat,New Delhi,50,Monthly Pass,27.5,60,0,Token
+581,2026-06-19,Magenta,Sikanderpur,Yamuna Bank,34,Senior Citizen,39.5,84,64,Token
+582,2026-08-06,Red,Civil Lines,Kirti Nagar,29,Senior Citizen,5,15,13,Mobile App
+583,2026-10-16,Blue,Hauz Khas,Hauz Khas,41,Regular,6.9,19,24,QR Ticket
+584,2026-07-30,Green,Central Secretariat,Mandi House,25,Tourist,32.9,71,76,Token
+585,2026-05-27,Red,Botanical Garden,Dwarka Sector 10,37,Tourist,8.9,23,28,Token
+586,2026-12-28,Green,Hauz Khas,Botanical Garden,60,Senior Citizen,23.9,53,41,Mobile App
+587,2026-03-13,Yellow,Janakpuri West,Noida Sector 15,51,Student,30.2,65,53,Token
+588,2026-12-04,Green,Chandni Chowk,Kirti Nagar,39,Regular,35.8,77,82,QR Ticket
+589,2026-01-27,Blue,Dwarka Sector 21,Rajiv Chowk,68,Senior Citizen,33.3,72,55,Token
+590,2026-08-09,Violet,Mandi House,Hauz Khas,23,Regular,18.1,41,46,Token
+591,2026-07-18,Green,HUDA City Centre,Civil Lines,69,Monthly Pass,25.3,56,0,Mobile App
+592,2026-07-18,Magenta,Chandni Chowk,Nirman Vihar,49,Regular,3.2,11,16,Smart Card
+593,2026-02-22,Yellow,Noida Sector 18,Dwarka Sector 21,40,Tourist,3.3,12,17,Token
+594,2026-08-19,Red,Rithala,Botanical Garden,56,Regular,29.8,65,70,Smart Card
+595,2026-11-09,Blue,Rajiv Chowk,Samaypur Badli,18,Tourist,36.3,78,83,Smart Card
+596,2026-06-29,Magenta,New Delhi,Chandni Chowk,60,Monthly Pass,19.8,45,0,Smart Card
+597,2026-09-15,Blue,Kashmere Gate,MG Road,51,Student,24.7,54,45,QR Ticket
+598,2026-08-29,Magenta,Civil Lines,Janakpuri West,25,Student,26.8,59,48,Mobile App
+599,2026-12-20,Blue,Rajiv Chowk,Laxmi Nagar,47,Student,36.6,78,64,Mobile App
+600,2026-09-18,Red,Kashmere Gate,Kirti Nagar,46,Regular,29.3,64,69,Token
+601,2026-10-07,Magenta,Central Secretariat,Mandi House,63,Monthly Pass,7.5,20,0,Mobile App
+602,2026-07-15,Yellow,Mandi House,IFFCO Chowk,56,Senior Citizen,10.9,27,21,Token
+603,2026-07-07,Blue,Samaypur Badli,Yamuna Bank,15,Regular,13.7,32,37,Smart Card
+604,2026-07-01,Violet,Central Secretariat,Kirti Nagar,53,Tourist,30.6,66,71,QR Ticket
+605,2026-11-23,Magenta,Laxmi Nagar,Qutub Minar,20,Regular,22,49,54,Token
+606,2026-05-11,Magenta,Laxmi Nagar,Dwarka Sector 21,21,Tourist,23.9,53,58,QR Ticket
+607,2026-03-26,Yellow,MG Road,HUDA City Centre,63,Tourist,4.6,14,19,Mobile App
+608,2026-05-02,Blue,MG Road,Laxmi Nagar,15,Regular,9.6,24,29,Mobile App
+609,2026-12-20,Red,Rajouri Garden,Laxmi Nagar,47,Student,35.7,76,62,Token
+610,2026-11-08,Magenta,Botanical Garden,Samaypur Badli,49,Tourist,14.7,34,39,Token
+611,2026-05-25,Blue,Sikanderpur,Saket,57,Student,10.1,25,21,Mobile App
+612,2026-01-08,Violet,Vishwavidyalaya,New Delhi,58,Regular,16.1,37,42,QR Ticket
+613,2026-05-07,Magenta,Malviya Nagar,Guru Dronacharya,29,Tourist,4.2,13,18,Smart Card
+614,2026-08-03,Violet,Samaypur Badli,Kashmere Gate,54,Student,36.3,78,63,Smart Card
+615,2026-11-20,Blue,Guru Dronacharya,AIIMS,54,Regular,33.7,72,77,Smart Card
+616,2026-03-30,Blue,Noida Sector 18,Vishwavidyalaya,28,Senior Citizen,8.6,22,18,Smart Card
+617,2026-07-25,Magenta,Kirti Nagar,Malviya Nagar,64,Student,10.2,25,21,Token
+618,2026-10-20,Yellow,Kirti Nagar,Rajiv Chowk,32,Regular,32.4,70,75,Smart Card
+619,2026-04-23,Red,Anand Vihar,Central Secretariat,62,Senior Citizen,22,49,38,Mobile App
+620,2026-06-15,Yellow,Chandni Chowk,Samaypur Badli,55,Regular,38.2,81,86,QR Ticket
+621,2026-03-24,Yellow,Janakpuri West,Nirman Vihar,48,Student,24.1,53,44,Mobile App
+622,2026-05-06,Magenta,Malviya Nagar,Qutub Minar,26,Student,17.6,40,33,Token
+623,2026-02-27,Magenta,Samaypur Badli,MG Road,30,Tourist,38.4,82,87,QR Ticket
+624,2026-05-16,Green,Nirman Vihar,Dwarka Sector 21,29,Regular,8.4,22,27,QR Ticket
+625,2026-07-25,Green,HUDA City Centre,Dwarka Sector 10,54,Senior Citizen,39.2,83,64,Token
+626,2026-08-21,Magenta,Yamuna Bank,Rohini West,65,Regular,34.2,73,78,Smart Card
+627,2026-10-01,Green,Rohini West,Saket,50,Monthly Pass,16.2,37,0,Smart Card
+628,2026-01-06,Red,Central Secretariat,Anand Vihar,18,Senior Citizen,3.4,12,10,Mobile App
+629,2026-10-07,Green,Vishwavidyalaya,IFFCO Chowk,63,Senior Citizen,7.7,20,17,Smart Card
+630,2026-10-28,Yellow,Noida Sector 18,Noida City Centre,17,Tourist,29.9,65,70,QR Ticket
+631,2026-04-29,Yellow,HUDA City Centre,Sikanderpur,63,Regular,32.4,70,75,Smart Card
+632,2026-03-06,Magenta,HUDA City Centre,New Delhi,46,Tourist,3.1,11,16,Mobile App
+633,2026-10-28,Red,New Delhi,Malviya Nagar,55,Student,26,57,47,Mobile App
+634,2026-12-12,Violet,Central Secretariat,Noida Sector 18,52,Student,26.1,57,47,QR Ticket
+635,2026-03-01,Magenta,Nirman Vihar,Dwarka Sector 21,29,Student,15.2,35,29,Token
+636,2026-09-14,Blue,Dwarka Sector 10,Malviya Nagar,18,Student,24.9,55,45,Smart Card
+637,2026-07-20,Magenta,Noida City Centre,Noida City Centre,64,Tourist,3.1,11,16,Mobile App
+638,2026-11-30,Red,Sikanderpur,Rohini West,57,Monthly Pass,7.8,21,0,QR Ticket
+639,2026-06-11,Violet,Rajouri Garden,Noida City Centre,25,Student,14.5,34,28,Smart Card
+640,2026-04-22,Violet,Malviya Nagar,Rithala,29,Regular,5.5,16,21,QR Ticket
+641,2026-12-15,Red,Chandni Chowk,Rajouri Garden,65,Senior Citizen,21,47,37,Token
+642,2026-07-13,Yellow,Kashmere Gate,New Delhi,25,Student,4.4,14,12,Token
+643,2026-08-28,Magenta,Janakpuri West,Hauz Khas,20,Senior Citizen,20.1,45,35,Token
+644,2026-10-01,Magenta,Anand Vihar,Botanical Garden,62,Senior Citizen,16.5,38,30,Token
+645,2026-05-26,Blue,Janakpuri West,New Delhi,33,Senior Citizen,38.6,82,63,Mobile App
+646,2026-03-07,Blue,Vishwavidyalaya,Hauz Khas,61,Regular,21.8,49,54,Smart Card
+647,2026-05-20,Violet,Hauz Khas,Kirti Nagar,34,Senior Citizen,9,23,19,Token
+648,2026-02-27,Yellow,Janakpuri West,Noida Sector 18,22,Tourist,17.4,40,45,Token
+649,2026-08-13,Magenta,Laxmi Nagar,Kirti Nagar,19,Student,19.9,45,37,Smart Card
+650,2026-03-28,Blue,Civil Lines,Vishwavidyalaya,35,Regular,37.5,80,85,Smart Card
+651,2026-11-17,Red,IFFCO Chowk,Chandni Chowk,19,Senior Citizen,12.2,29,23,Mobile App
+652,2026-07-16,Magenta,Kashmere Gate,Saket,28,Student,8.5,22,19,Mobile App
+653,2026-03-19,Green,Dwarka Sector 10,Central Secretariat,47,Tourist,30.1,65,70,Token
+654,2026-10-24,Magenta,Samaypur Badli,Hauz Khas,53,Student,34.2,73,60,Mobile App
+655,2026-06-12,Green,Hauz Khas,Botanical Garden,36,Regular,6.4,18,23,Token
+656,2026-03-21,Red,MG Road,Yamuna Bank,22,Regular,14.9,35,40,Token
+657,2026-08-15,Yellow,Chandni Chowk,Dwarka Sector 10,37,Tourist,36.7,78,83,Token
+658,2026-11-17,Red,Janakpuri West,Qutub Minar,50,Monthly Pass,10.2,25,0,Smart Card
+659,2026-01-02,Blue,Yamuna Bank,Chandni Chowk,66,Monthly Pass,38.5,82,0,Mobile App
+660,2026-11-27,Red,Rithala,Janakpuri West,69,Monthly Pass,7.4,20,0,Token
+661,2026-08-29,Red,Central Secretariat,Malviya Nagar,52,Senior Citizen,23.4,52,40,Token
+662,2026-04-26,Yellow,Guru Dronacharya,Noida Sector 18,70,Tourist,2.8,11,16,QR Ticket
+663,2026-08-02,Blue,Samaypur Badli,AIIMS,37,Tourist,6.5,18,23,Token
+664,2026-05-29,Yellow,Dwarka Sector 10,Yamuna Bank,15,Senior Citizen,21.8,49,38,Mobile App
+665,2026-10-26,Yellow,MG Road,Anand Vihar,30,Senior Citizen,39.4,84,64,QR Ticket
+666,2026-12-16,Blue,Rajiv Chowk,Anand Vihar,58,Senior Citizen,32.9,71,54,Mobile App
+667,2026-03-24,Magenta,Samaypur Badli,Botanical Garden,27,Tourist,18.5,42,47,Mobile App
+668,2026-01-01,Yellow,Rajiv Chowk,Samaypur Badli,40,Monthly Pass,12.2,29,0,Token
+669,2026-07-30,Magenta,Guru Dronacharya,Qutub Minar,48,Regular,26.9,59,64,Token
+670,2026-09-03,Red,Dwarka Sector 21,Kirti Nagar,15,Senior Citizen,39.6,84,64,Token
+671,2026-10-19,Blue,Malviya Nagar,Anand Vihar,48,Student,21.7,48,40,Mobile App
+672,2026-06-10,Red,Rajouri Garden,IFFCO Chowk,19,Student,33.3,72,58,Token
+673,2026-04-02,Red,Rajouri Garden,Chandni Chowk,26,Senior Citizen,21.1,47,37,Smart Card
+674,2026-03-12,Magenta,Dwarka Sector 10,Saket,47,Tourist,24.8,55,60,QR Ticket
+675,2026-06-23,Magenta,Central Secretariat,Noida Sector 15,53,Regular,7.3,20,25,Smart Card
+676,2026-04-04,Blue,Sikanderpur,Nirman Vihar,49,Student,30.1,65,53,QR Ticket
+677,2026-03-06,Violet,Janakpuri West,Chandni Chowk,54,Senior Citizen,3,11,10,QR Ticket
+678,2026-04-26,Yellow,Chandni Chowk,Civil Lines,66,Senior Citizen,23.9,53,41,QR Ticket
+679,2026-08-10,Red,Laxmi Nagar,Rajouri Garden,35,Student,16.1,37,31,Smart Card
+680,2026-01-20,Blue,Samaypur Badli,Hauz Khas,37,Monthly Pass,7.8,21,0,Smart Card
+681,2026-06-17,Blue,Civil Lines,Nirman Vihar,15,Senior Citizen,9,23,19,Smart Card
+682,2026-09-21,Yellow,Guru Dronacharya,IFFCO Chowk,43,Student,11.3,28,23,Mobile App
+683,2026-05-09,Magenta,Nirman Vihar,Noida Sector 15,25,Senior Citizen,13.5,32,25,Mobile App
+684,2026-09-30,Magenta,Vishwavidyalaya,Noida Sector 18,32,Senior Citizen,31.1,67,52,Smart Card
+685,2026-11-24,Green,Chandni Chowk,Guru Dronacharya,39,Monthly Pass,37.8,81,0,Token
+686,2026-11-08,Blue,Dwarka Sector 10,Vishwavidyalaya,70,Regular,4.2,13,18,Smart Card
+687,2026-06-09,Red,New Delhi,Rohini West,17,Student,27.5,60,49,Token
+688,2026-11-23,Red,Guru Dronacharya,Noida Sector 18,40,Tourist,18.2,41,46,Mobile App
+689,2026-10-06,Magenta,Rithala,Rajiv Chowk,68,Regular,17.5,40,45,Token
+690,2026-04-26,Blue,Guru Dronacharya,Noida City Centre,65,Tourist,9.4,24,29,QR Ticket
+691,2026-02-08,Magenta,Yamuna Bank,Botanical Garden,23,Student,17.5,40,33,Smart Card
+692,2026-03-18,Violet,Anand Vihar,Dwarka Sector 21,32,Senior Citizen,25.3,56,43,QR Ticket
+693,2026-10-21,Violet,Chandni Chowk,Laxmi Nagar,24,Senior Citizen,18.1,41,32,Token
+694,2026-01-04,Violet,New Delhi,Nirman Vihar,29,Student,39.5,84,68,QR Ticket
+695,2026-02-09,Yellow,Kashmere Gate,Rithala,50,Tourist,18.9,43,48,QR Ticket
+696,2026-05-29,Violet,Dwarka Sector 21,Chandni Chowk,24,Senior Citizen,29.6,64,49,Token
+697,2026-09-28,Yellow,Noida City Centre,Noida Sector 18,17,Tourist,4.6,14,19,Smart Card
+698,2026-04-05,Violet,Rithala,Rohini West,32,Senior Citizen,4.5,14,12,Token
+699,2026-08-25,Blue,Noida City Centre,Yamuna Bank,50,Monthly Pass,19.8,45,0,Mobile App
+700,2026-08-08,Violet,Malviya Nagar,Hauz Khas,25,Monthly Pass,26.4,58,0,Token
+701,2026-05-25,Blue,Rajouri Garden,Noida City Centre,55,Tourist,21.3,48,53,Token
+702,2026-01-07,Yellow,New Delhi,Samaypur Badli,50,Regular,27.1,59,64,Smart Card
+703,2026-04-08,Red,Hauz Khas,IFFCO Chowk,45,Tourist,8,21,26,Mobile App
+704,2026-11-06,Green,Anand Vihar,Saket,55,Senior Citizen,7.5,20,16,Smart Card
+705,2026-07-14,Red,Janakpuri West,Central Secretariat,34,Monthly Pass,31.2,67,0,QR Ticket
+706,2026-07-18,Green,Central Secretariat,Qutub Minar,56,Monthly Pass,39.5,84,0,Smart Card
+707,2026-08-14,Green,Janakpuri West,Kashmere Gate,29,Tourist,8.6,22,27,Mobile App
+708,2026-05-17,Green,Central Secretariat,Malviya Nagar,18,Tourist,10.3,26,31,Token
+709,2026-10-10,Yellow,Rohini West,Saket,18,Tourist,15.5,36,41,Smart Card
+710,2026-02-27,Yellow,Qutub Minar,Sikanderpur,34,Monthly Pass,12.7,30,0,Mobile App
+711,2026-10-31,Red,Dwarka Sector 21,Civil Lines,50,Student,37.1,79,64,Mobile App
+712,2026-12-19,Blue,Dwarka Sector 21,MG Road,53,Regular,34.8,75,80,Token
+713,2026-04-11,Magenta,Noida City Centre,Noida City Centre,61,Monthly Pass,27.5,60,0,Mobile App
+714,2026-02-14,Magenta,Mandi House,Janakpuri West,17,Regular,36.6,78,83,Mobile App
+715,2026-07-07,Yellow,Botanical Garden,Kirti Nagar,65,Senior Citizen,10.2,25,20,Mobile App
+716,2026-07-08,Magenta,Yamuna Bank,Noida City Centre,38,Regular,33.2,71,76,Smart Card
+717,2026-12-09,Red,Malviya Nagar,Malviya Nagar,31,Senior Citizen,20.1,45,35,QR Ticket
+718,2026-12-12,Yellow,Malviya Nagar,Guru Dronacharya,17,Student,39.4,84,68,Mobile App
+719,2026-06-13,Violet,Central Secretariat,Malviya Nagar,37,Student,9,23,19,QR Ticket
+720,2026-11-20,Magenta,Botanical Garden,Sikanderpur,34,Student,31.3,68,55,Token
+721,2026-06-16,Violet,Chandni Chowk,Yamuna Bank,16,Student,29.9,65,53,QR Ticket
+722,2026-07-03,Red,MG Road,Civil Lines,37,Student,18.5,42,35,QR Ticket
+723,2026-11-22,Yellow,Dwarka Sector 21,Qutub Minar,55,Student,37.9,81,66,Smart Card
+724,2026-09-03,Magenta,Malviya Nagar,Dwarka Sector 21,38,Tourist,19.5,44,49,QR Ticket
+725,2026-12-27,Green,Qutub Minar,Rajouri Garden,63,Senior Citizen,12,29,23,Token
+726,2026-05-20,Blue,Malviya Nagar,Laxmi Nagar,32,Monthly Pass,35.4,76,0,QR Ticket
+727,2026-12-21,Blue,Laxmi Nagar,Chandni Chowk,46,Student,38.3,82,66,Token
+728,2026-07-15,Red,Nirman Vihar,Janakpuri West,49,Regular,19.5,44,49,Token
+729,2026-09-01,Violet,Botanical Garden,Vishwavidyalaya,61,Monthly Pass,17.8,41,0,QR Ticket
+730,2026-07-01,Red,Laxmi Nagar,New Delhi,68,Monthly Pass,28.8,63,0,Mobile App
+731,2026-05-01,Green,Malviya Nagar,Rohini West,27,Tourist,24,53,58,Mobile App
+732,2026-12-24,Violet,Botanical Garden,Sikanderpur,28,Senior Citizen,27.6,60,46,Mobile App
+733,2026-12-22,Violet,Kirti Nagar,Yamuna Bank,37,Senior Citizen,15.2,35,28,Token
+734,2026-02-24,Green,Rohini West,Samaypur Badli,24,Senior Citizen,20.9,47,36,QR Ticket
+735,2026-03-19,Violet,Saket,Noida City Centre,65,Senior Citizen,24.5,54,42,Mobile App
+736,2026-09-28,Blue,Civil Lines,IFFCO Chowk,47,Regular,26.5,58,63,QR Ticket
+737,2026-01-02,Green,Samaypur Badli,Hauz Khas,66,Monthly Pass,7.9,21,0,QR Ticket
+738,2026-04-10,Violet,AIIMS,HUDA City Centre,36,Regular,39.6,84,89,Token
+739,2026-03-10,Blue,Rajiv Chowk,Botanical Garden,51,Senior Citizen,37.8,81,62,Smart Card
+740,2026-05-16,Green,Civil Lines,AIIMS,47,Tourist,36.9,79,84,Smart Card
+741,2026-02-22,Yellow,Saket,Mandi House,16,Regular,2.9,11,16,QR Ticket
+742,2026-12-26,Blue,Malviya Nagar,IFFCO Chowk,66,Monthly Pass,22.6,50,0,Smart Card
+743,2026-08-26,Yellow,Mandi House,Samaypur Badli,32,Regular,30.1,65,70,QR Ticket
+744,2026-01-12,Magenta,Sikanderpur,Malviya Nagar,55,Monthly Pass,2.8,11,0,Token
+745,2026-02-24,Red,Mandi House,Janakpuri West,70,Tourist,37,79,84,QR Ticket
+746,2026-07-01,Magenta,Janakpuri West,HUDA City Centre,32,Student,32,69,56,Mobile App
+747,2026-11-16,Magenta,Kirti Nagar,AIIMS,61,Senior Citizen,38.3,82,62,QR Ticket
+748,2026-07-24,Violet,Rohini West,Dwarka Sector 21,20,Regular,30.5,66,71,Smart Card
+749,2026-12-06,Magenta,Rohini West,Rajiv Chowk,22,Senior Citizen,26.3,58,44,Mobile App
+750,2026-04-12,Green,Kirti Nagar,Anand Vihar,31,Monthly Pass,8,21,0,Token
+751,2026-10-06,Yellow,Central Secretariat,Noida Sector 15,24,Tourist,3.7,12,17,Smart Card
+752,2026-06-16,Violet,Noida Sector 15,Hauz Khas,37,Monthly Pass,37.3,80,0,Token
+753,2026-09-02,Blue,Sikanderpur,Noida Sector 18,32,Monthly Pass,29,63,0,Token
+754,2026-05-04,Violet,Vishwavidyalaya,Guru Dronacharya,34,Senior Citizen,28.7,62,48,QR Ticket
+755,2026-09-06,Blue,Vishwavidyalaya,Chandni Chowk,43,Regular,18.7,42,47,QR Ticket
+756,2026-12-02,Blue,Rithala,Samaypur Badli,48,Regular,31.3,68,73,Smart Card
+757,2026-04-18,Green,MG Road,MG Road,25,Monthly Pass,39,83,0,Smart Card
+758,2026-01-10,Blue,New Delhi,Kashmere Gate,34,Student,6.9,19,16,Smart Card
+759,2026-06-13,Red,Kashmere Gate,Guru Dronacharya,17,Senior Citizen,28.5,62,48,Smart Card
+760,2026-01-08,Blue,Rajouri Garden,Mandi House,37,Student,19.3,44,36,Smart Card
+761,2026-09-29,Green,Rajouri Garden,Botanical Garden,21,Monthly Pass,35.7,76,0,Smart Card
+762,2026-08-12,Magenta,Civil Lines,Yamuna Bank,39,Monthly Pass,4.8,15,0,QR Ticket
+763,2026-04-15,Red,New Delhi,IFFCO Chowk,36,Student,38.1,81,66,Token
+764,2026-04-09,Blue,IFFCO Chowk,HUDA City Centre,31,Student,13.4,32,26,Mobile App
+765,2026-04-07,Magenta,Dwarka Sector 21,Civil Lines,56,Student,9.1,23,20,Token
+766,2026-02-24,Green,Dwarka Sector 21,AIIMS,15,Student,36.7,78,64,Smart Card
+767,2026-12-14,Red,Civil Lines,Guru Dronacharya,59,Regular,24,53,58,Token
+768,2026-12-12,Red,New Delhi,Rajouri Garden,63,Regular,9,23,28,Smart Card
+769,2026-06-16,Blue,Yamuna Bank,Nirman Vihar,17,Regular,20.5,46,51,QR Ticket
+770,2026-01-17,Blue,Anand Vihar,Dwarka Sector 21,47,Senior Citizen,33.9,73,56,QR Ticket
+771,2026-04-01,Yellow,Kashmere Gate,Noida City Centre,24,Monthly Pass,39.3,84,0,Token
+772,2026-04-22,Magenta,IFFCO Chowk,Kirti Nagar,43,Tourist,33.7,72,77,Mobile App
+773,2026-03-23,Violet,Dwarka Sector 21,Yamuna Bank,22,Student,9.6,24,20,Token
+774,2026-10-21,Violet,AIIMS,Saket,29,Monthly Pass,6.3,18,0,Smart Card
+775,2026-01-20,Red,Mandi House,Chandni Chowk,46,Regular,15.5,36,41,QR Ticket
+776,2026-06-20,Yellow,Noida City Centre,IFFCO Chowk,63,Regular,26.9,59,64,QR Ticket
+777,2026-04-07,Red,Chandni Chowk,Chandni Chowk,26,Student,5.4,16,14,Mobile App
+778,2026-12-13,Yellow,Anand Vihar,Qutub Minar,35,Monthly Pass,13.6,32,0,Smart Card
+779,2026-04-10,Yellow,Noida Sector 18,Anand Vihar,22,Student,11,27,23,Smart Card
+780,2026-06-02,Red,Janakpuri West,Vishwavidyalaya,51,Student,36.7,78,64,Token
+781,2026-12-03,Red,Malviya Nagar,Kashmere Gate,26,Student,7.9,21,18,QR Ticket
+782,2026-12-01,Red,Dwarka Sector 21,Chandni Chowk,27,Monthly Pass,31.3,68,0,Token
+783,2026-04-19,Green,Chandni Chowk,Mandi House,54,Monthly Pass,21.5,48,0,QR Ticket
+784,2026-07-25,Magenta,Dwarka Sector 10,Dwarka Sector 10,23,Monthly Pass,34.4,74,0,QR Ticket
+785,2026-11-05,Violet,Vishwavidyalaya,Noida City Centre,40,Tourist,8,21,26,QR Ticket
+786,2026-01-28,Blue,Noida City Centre,Rajiv Chowk,49,Student,28.4,62,50,QR Ticket
+787,2026-04-03,Yellow,Dwarka Sector 21,Janakpuri West,32,Senior Citizen,16.6,38,30,Mobile App
+788,2026-06-23,Blue,Rithala,Guru Dronacharya,42,Student,33.1,71,58,Smart Card
+789,2026-10-03,Yellow,Chandni Chowk,Vishwavidyalaya,62,Tourist,34.4,74,79,Smart Card
+790,2026-11-07,Yellow,Dwarka Sector 21,Qutub Minar,16,Regular,12.2,29,34,Mobile App
+791,2026-08-25,Magenta,Central Secretariat,Noida Sector 18,53,Student,35.9,77,62,Smart Card
+792,2026-09-27,Red,Malviya Nagar,Kashmere Gate,22,Student,12.6,30,25,Smart Card
+793,2026-12-14,Red,Rithala,Sikanderpur,60,Student,3.9,13,11,Smart Card
+794,2026-08-03,Red,Botanical Garden,Central Secretariat,15,Monthly Pass,16.2,37,0,QR Ticket
+795,2026-10-29,Violet,Rajiv Chowk,Dwarka Sector 21,52,Tourist,33.1,71,76,QR Ticket
+796,2026-05-17,Blue,Rohini West,Noida Sector 15,19,Student,10.8,27,22,Mobile App
+797,2026-09-07,Red,MG Road,Malviya Nagar,33,Monthly Pass,29.2,63,0,Mobile App
+798,2026-05-04,Red,Rajiv Chowk,Kirti Nagar,42,Student,10.3,26,21,Smart Card
+799,2026-01-28,Green,Sikanderpur,Guru Dronacharya,26,Tourist,3.1,11,16,Mobile App
+800,2026-01-10,Magenta,Anand Vihar,Central Secretariat,53,Student,35.2,75,61,Token
+801,2026-04-21,Green,Janakpuri West,IFFCO Chowk,56,Tourist,35.1,75,80,Token
+802,2026-02-24,Magenta,Botanical Garden,Rajouri Garden,44,Senior Citizen,2.5,10,9,Mobile App
+803,2026-04-15,Yellow,Janakpuri West,Rajiv Chowk,55,Tourist,10.6,26,31,Mobile App
+804,2026-02-03,Blue,AIIMS,Dwarka Sector 10,29,Student,36.4,78,63,Token
+805,2026-09-06,Magenta,Rithala,Qutub Minar,68,Senior Citizen,10.6,26,21,QR Ticket
+806,2026-06-29,Magenta,MG Road,Dwarka Sector 21,40,Student,8.5,22,19,Token
+807,2026-10-02,Red,Saket,Central Secretariat,69,Senior Citizen,35,75,58,Mobile App
+808,2026-04-29,Violet,IFFCO Chowk,New Delhi,62,Tourist,4.1,13,18,Token
+809,2026-09-21,Yellow,Noida Sector 15,Botanical Garden,59,Monthly Pass,38,81,0,QR Ticket
+810,2026-02-27,Red,Janakpuri West,Botanical Garden,66,Senior Citizen,3,11,10,Token
+811,2026-03-21,Magenta,Yamuna Bank,Yamuna Bank,68,Senior Citizen,24.5,54,42,Mobile App
+812,2026-11-29,Green,HUDA City Centre,AIIMS,34,Student,2.1,9,8,QR Ticket
+813,2026-01-25,Blue,Samaypur Badli,Guru Dronacharya,53,Student,13.6,32,27,Token
+814,2026-04-27,Green,Vishwavidyalaya,Laxmi Nagar,28,Regular,21.6,48,53,Token
+815,2026-08-17,Magenta,Rithala,MG Road,66,Student,35.8,77,62,QR Ticket
+816,2026-03-19,Violet,Noida Sector 15,Anand Vihar,35,Regular,2.6,10,15,Token
+817,2026-01-02,Blue,Nirman Vihar,Yamuna Bank,57,Monthly Pass,30.9,67,0,Smart Card
+818,2026-12-26,Magenta,Noida Sector 15,Kirti Nagar,51,Senior Citizen,17.7,40,32,Token
+819,2026-08-10,Red,Qutub Minar,Kirti Nagar,28,Student,37.9,81,66,QR Ticket
+820,2026-10-13,Blue,Sikanderpur,IFFCO Chowk,58,Regular,14.6,34,39,Mobile App
+821,2026-06-21,Violet,New Delhi,Rithala,66,Student,21.7,48,40,Mobile App
+822,2026-06-07,Yellow,Dwarka Sector 10,HUDA City Centre,29,Tourist,12.5,30,35,Smart Card
+823,2026-08-21,Violet,Central Secretariat,Hauz Khas,15,Tourist,26.1,57,62,Mobile App
+824,2026-01-06,Red,Civil Lines,IFFCO Chowk,27,Tourist,9.5,24,29,QR Ticket
+825,2026-10-02,Red,Sikanderpur,Rajiv Chowk,58,Senior Citizen,26.1,57,44,Mobile App
+826,2026-09-12,Green,Saket,Sikanderpur,30,Tourist,22,49,54,Smart Card
+827,2026-11-24,Red,Laxmi Nagar,Anand Vihar,66,Regular,6,17,22,Token
+828,2026-04-17,Red,Anand Vihar,Noida City Centre,29,Monthly Pass,18.2,41,0,Smart Card
+829,2026-11-16,Red,Nirman Vihar,Kashmere Gate,39,Monthly Pass,17.7,40,0,Token
+830,2026-04-22,Green,Noida Sector 15,Kashmere Gate,53,Student,37.9,81,66,Mobile App
+831,2026-04-12,Blue,Dwarka Sector 21,Rithala,45,Tourist,4.2,13,18,Token
+832,2026-02-21,Yellow,Civil Lines,IFFCO Chowk,29,Regular,15,35,40,Smart Card
+833,2026-05-22,Violet,IFFCO Chowk,New Delhi,57,Tourist,18.7,42,47,Mobile App
+834,2026-04-24,Violet,Saket,Kashmere Gate,35,Regular,15.2,35,40,Smart Card
+835,2026-03-04,Green,Guru Dronacharya,Kashmere Gate,48,Regular,16.6,38,43,Smart Card
+836,2026-04-11,Blue,Noida City Centre,AIIMS,24,Senior Citizen,22.5,50,39,Token
+837,2026-07-06,Magenta,Rajiv Chowk,Central Secretariat,51,Regular,28.5,62,67,QR Ticket
+838,2026-08-09,Yellow,Janakpuri West,Laxmi Nagar,35,Monthly Pass,39.5,84,0,Smart Card
+839,2026-12-03,Red,Anand Vihar,Janakpuri West,42,Regular,8.7,22,27,Smart Card
+840,2026-01-07,Red,Noida Sector 15,Noida Sector 15,56,Tourist,31.8,69,74,Mobile App
+841,2026-04-07,Violet,Dwarka Sector 10,Hauz Khas,70,Student,28.6,62,51,QR Ticket
+842,2026-08-23,Blue,Noida Sector 18,Noida City Centre,26,Senior Citizen,39.4,84,64,Token
+843,2026-03-07,Magenta,Vishwavidyalaya,Kirti Nagar,68,Monthly Pass,22.5,50,0,Mobile App
+844,2026-11-20,Magenta,Laxmi Nagar,Rajouri Garden,63,Regular,32.5,70,75,QR Ticket
+845,2026-11-18,Green,Dwarka Sector 10,Chandni Chowk,18,Tourist,9.2,23,28,Smart Card
+846,2026-08-21,Blue,IFFCO Chowk,Saket,54,Tourist,13.4,32,37,QR Ticket
+847,2026-10-20,Red,Anand Vihar,Rithala,19,Tourist,26.8,59,64,QR Ticket
+848,2026-12-28,Magenta,Kashmere Gate,Anand Vihar,44,Tourist,38.7,82,87,Mobile App
+849,2026-09-13,Red,Chandni Chowk,Laxmi Nagar,34,Monthly Pass,25.4,56,0,Token
+850,2026-04-26,Yellow,Nirman Vihar,Dwarka Sector 21,49,Student,14.5,34,28,QR Ticket
+851,2026-09-07,Red,MG Road,MG Road,66,Monthly Pass,38.8,83,0,Mobile App
+852,2026-08-24,Red,Janakpuri West,Qutub Minar,35,Tourist,20.3,46,51,Smart Card
+853,2026-08-05,Blue,Anand Vihar,IFFCO Chowk,31,Senior Citizen,7.5,20,16,Token
+854,2026-09-03,Yellow,Samaypur Badli,Rohini West,40,Student,17.2,39,33,QR Ticket
+855,2026-08-24,Violet,Civil Lines,Chandni Chowk,35,Student,36.9,79,64,Smart Card
+856,2026-09-17,Green,MG Road,Noida Sector 18,39,Tourist,39.8,85,90,Token
+857,2026-09-29,Yellow,Sikanderpur,New Delhi,23,Tourist,2.1,9,14,Token
+858,2026-06-24,Red,Guru Dronacharya,Kashmere Gate,25,Student,31.7,68,56,QR Ticket
+859,2026-02-04,Green,Samaypur Badli,Laxmi Nagar,17,Monthly Pass,3,11,0,QR Ticket
+860,2026-06-02,Magenta,Kashmere Gate,Saket,63,Tourist,4.3,14,19,Token
+861,2026-06-13,Yellow,Rithala,Anand Vihar,65,Senior Citizen,24,53,41,Smart Card
+862,2026-04-07,Red,Hauz Khas,Central Secretariat,15,Regular,22.2,49,54,Token
+863,2026-03-11,Magenta,Noida City Centre,Hauz Khas,22,Tourist,15.9,37,42,QR Ticket
+864,2026-08-18,Red,Noida Sector 18,Rajiv Chowk,35,Tourist,3.9,13,18,Mobile App
+865,2026-05-17,Yellow,Kirti Nagar,Saket,30,Tourist,10.7,26,31,Mobile App
+866,2026-06-15,Red,Hauz Khas,Mandi House,46,Student,19.5,44,36,QR Ticket
+867,2026-10-30,Magenta,New Delhi,Laxmi Nagar,64,Student,8,21,18,Smart Card
+868,2026-10-11,Blue,AIIMS,New Delhi,59,Regular,2.5,10,15,Mobile App
+869,2026-12-18,Blue,Malviya Nagar,Guru Dronacharya,17,Senior Citizen,28.2,61,47,QR Ticket
+870,2026-08-25,Red,Noida Sector 15,AIIMS,28,Monthly Pass,34.1,73,0,QR Ticket
+871,2026-09-06,Magenta,Anand Vihar,Rohini West,47,Student,13.3,32,26,QR Ticket
+872,2026-05-30,Blue,Mandi House,Kashmere Gate,27,Student,31.2,67,55,Mobile App
+873,2026-12-10,Magenta,Saket,Botanical Garden,36,Senior Citizen,38.3,82,62,Mobile App
+874,2026-12-22,Magenta,Qutub Minar,Guru Dronacharya,16,Senior Citizen,29.2,63,49,Smart Card
+875,2026-02-08,Green,New Delhi,Kirti Nagar,51,Senior Citizen,39.2,83,64,Mobile App
+876,2026-02-09,Yellow,Botanical Garden,AIIMS,58,Monthly Pass,34.7,74,0,Smart Card
+877,2026-10-10,Violet,Noida Sector 18,Noida Sector 18,25,Tourist,17.2,39,44,Smart Card
+878,2026-09-17,Blue,New Delhi,Rajiv Chowk,15,Monthly Pass,19.6,44,0,Smart Card
+879,2026-01-22,Red,Mandi House,Saket,67,Senior Citizen,33.6,72,55,QR Ticket
+880,2026-12-07,Magenta,HUDA City Centre,Malviya Nagar,17,Tourist,15.3,36,41,Mobile App
+881,2026-07-14,Green,Malviya Nagar,Kirti Nagar,63,Tourist,6.6,18,23,Smart Card
+882,2026-03-14,Green,Botanical Garden,Nirman Vihar,59,Tourist,6.6,18,23,Mobile App
+883,2026-06-03,Magenta,Noida Sector 18,Qutub Minar,48,Monthly Pass,18.4,42,0,Smart Card
+884,2026-02-20,Blue,Yamuna Bank,MG Road,32,Monthly Pass,13.2,31,0,QR Ticket
+885,2026-09-19,Yellow,AIIMS,Yamuna Bank,46,Senior Citizen,11.2,27,22,Token
+886,2026-11-26,Magenta,IFFCO Chowk,IFFCO Chowk,49,Regular,17.5,40,45,QR Ticket
+887,2026-08-01,Magenta,Nirman Vihar,Botanical Garden,38,Monthly Pass,17.8,41,0,Mobile App
+888,2026-01-14,Blue,Rajouri Garden,HUDA City Centre,70,Student,25.1,55,45,Smart Card
+889,2026-12-23,Blue,Nirman Vihar,Noida City Centre,35,Regular,8.1,21,26,Smart Card
+890,2026-03-05,Violet,Dwarka Sector 21,Nirman Vihar,35,Regular,7,19,24,QR Ticket
+891,2026-04-25,Blue,MG Road,Kirti Nagar,27,Regular,25.4,56,61,QR Ticket
+892,2026-11-11,Yellow,Anand Vihar,AIIMS,37,Student,35.9,77,62,Token
+893,2026-09-20,Magenta,MG Road,Noida City Centre,39,Monthly Pass,5.3,16,0,Token
+894,2026-03-02,Green,Rithala,Malviya Nagar,57,Monthly Pass,31.3,68,0,Token
+895,2026-06-17,Yellow,Samaypur Badli,Guru Dronacharya,35,Monthly Pass,39.5,84,0,Mobile App
+896,2026-09-27,Blue,HUDA City Centre,Malviya Nagar,22,Monthly Pass,31.2,67,0,Smart Card
+897,2026-06-07,Magenta,Dwarka Sector 21,Rithala,17,Senior Citizen,25.5,56,43,QR Ticket
+898,2026-06-30,Red,Rajiv Chowk,IFFCO Chowk,20,Senior Citizen,34.1,73,56,Smart Card
+899,2026-03-16,Yellow,Noida Sector 18,Dwarka Sector 21,59,Student,12.2,29,25,QR Ticket
+900,2026-01-03,Blue,Rithala,Botanical Garden,23,Regular,26.1,57,62,Mobile App
+901,2026-07-29,Yellow,Nirman Vihar,Rithala,26,Regular,15.8,37,42,QR Ticket
+902,2026-02-15,Magenta,Sikanderpur,Vishwavidyalaya,43,Regular,2.4,10,15,QR Ticket
+903,2026-05-18,Blue,Qutub Minar,Hauz Khas,15,Student,34.9,75,61,QR Ticket
+904,2026-07-28,Green,Rithala,Noida Sector 15,61,Student,9.1,23,20,Mobile App
+905,2026-11-11,Magenta,Janakpuri West,Samaypur Badli,32,Tourist,2,9,14,QR Ticket
+906,2026-06-05,Violet,MG Road,Rajouri Garden,43,Regular,26.4,58,63,Smart Card
+907,2026-10-05,Magenta,Noida City Centre,Guru Dronacharya,44,Tourist,32.7,70,75,Mobile App
+908,2026-10-30,Magenta,Kirti Nagar,Noida City Centre,65,Tourist,33.8,73,78,QR Ticket
+909,2026-06-29,Red,Sikanderpur,Central Secretariat,49,Student,6.8,19,16,Mobile App
+910,2026-02-24,Magenta,HUDA City Centre,Dwarka Sector 21,54,Student,38.7,82,67,Token
+911,2026-05-30,Green,Civil Lines,Kirti Nagar,62,Regular,2.2,9,14,Mobile App
+912,2026-10-18,Yellow,HUDA City Centre,Nirman Vihar,39,Tourist,33.3,72,77,QR Ticket
+913,2026-06-11,Magenta,Yamuna Bank,Vishwavidyalaya,25,Senior Citizen,24.9,55,42,QR Ticket
+914,2026-08-27,Magenta,Noida Sector 15,Yamuna Bank,65,Monthly Pass,10.7,26,0,Mobile App
+915,2026-06-11,Red,Laxmi Nagar,Janakpuri West,34,Student,32.6,70,57,Mobile App
+916,2026-12-17,Blue,Dwarka Sector 10,IFFCO Chowk,53,Student,16.6,38,32,Mobile App
+917,2026-10-10,Green,Rohini West,New Delhi,17,Regular,6.8,19,24,Token
+918,2026-12-22,Green,Vishwavidyalaya,Samaypur Badli,32,Student,10.3,26,21,Mobile App
+919,2026-10-04,Blue,Sikanderpur,Hauz Khas,70,Senior Citizen,18.1,41,32,Smart Card
+920,2026-01-29,Yellow,HUDA City Centre,Dwarka Sector 21,38,Regular,11.8,29,34,Mobile App
+921,2026-12-15,Magenta,Qutub Minar,Samaypur Badli,38,Regular,23.9,53,58,QR Ticket
+922,2026-04-03,Violet,Mandi House,Kashmere Gate,18,Tourist,8,21,26,Token
+923,2026-05-12,Yellow,Noida Sector 18,Hauz Khas,69,Regular,18.2,41,46,Mobile App
+924,2026-04-29,Blue,Civil Lines,Mandi House,29,Tourist,36.8,79,84,Smart Card
+925,2026-10-06,Green,Kashmere Gate,Noida Sector 18,35,Senior Citizen,40,85,65,Smart Card
+926,2026-07-14,Yellow,AIIMS,Kirti Nagar,24,Tourist,30.3,66,71,Smart Card
+927,2026-04-10,Violet,IFFCO Chowk,HUDA City Centre,25,Student,20.3,46,37,Smart Card
+928,2026-08-08,Blue,IFFCO Chowk,Noida Sector 15,18,Monthly Pass,37.8,81,0,Smart Card
+929,2026-04-25,Violet,Samaypur Badli,Hauz Khas,41,Tourist,12.6,30,35,Token
+930,2026-07-07,Green,AIIMS,Rajiv Chowk,52,Senior Citizen,17.2,39,31,Smart Card
+931,2026-08-20,Yellow,Chandni Chowk,Samaypur Badli,60,Monthly Pass,39.7,84,0,Smart Card
+932,2026-10-20,Red,Central Secretariat,Dwarka Sector 21,54,Regular,35.5,76,81,Mobile App
+933,2026-02-17,Red,Samaypur Badli,AIIMS,20,Tourist,32.3,70,75,Smart Card
+934,2026-05-02,Green,Nirman Vihar,Dwarka Sector 10,37,Monthly Pass,4.9,15,0,Token
+935,2026-01-08,Magenta,Hauz Khas,AIIMS,42,Tourist,18.3,42,47,Mobile App
+936,2026-12-07,Yellow,Rajiv Chowk,Samaypur Badli,16,Regular,16.6,38,43,Token
+937,2026-06-27,Red,Noida Sector 15,Laxmi Nagar,24,Tourist,11.4,28,33,Mobile App
+938,2026-06-25,Violet,Laxmi Nagar,AIIMS,62,Senior Citizen,38.4,82,63,Mobile App
+939,2026-12-13,Blue,Noida Sector 15,Botanical Garden,17,Regular,34.4,74,79,Mobile App
+940,2026-09-14,Violet,Malviya Nagar,Anand Vihar,27,Tourist,33.3,72,77,Token
+941,2026-10-26,Green,Rithala,Noida Sector 15,51,Monthly Pass,18.4,42,0,QR Ticket
+942,2026-06-17,Magenta,Laxmi Nagar,Sikanderpur,36,Monthly Pass,25.9,57,0,QR Ticket
+943,2026-05-11,Magenta,Kirti Nagar,Central Secretariat,59,Student,39.8,85,69,Smart Card
+944,2026-08-27,Violet,Dwarka Sector 21,IFFCO Chowk,30,Regular,18.9,43,48,Smart Card
+945,2026-12-15,Red,Noida Sector 18,Vishwavidyalaya,54,Senior Citizen,15,35,28,Mobile App
+946,2026-11-03,Violet,New Delhi,Laxmi Nagar,36,Tourist,38.7,82,87,Mobile App
+947,2026-10-08,Green,Rithala,Mandi House,59,Monthly Pass,24.5,54,0,Smart Card
+948,2026-02-19,Blue,Sikanderpur,Malviya Nagar,43,Monthly Pass,29.5,64,0,Smart Card
+949,2026-06-19,Yellow,Kirti Nagar,HUDA City Centre,65,Monthly Pass,32,69,0,Smart Card
+950,2026-07-06,Red,Saket,Rajouri Garden,59,Monthly Pass,20.2,45,0,Token
+951,2026-09-29,Blue,Kashmere Gate,MG Road,49,Regular,11.9,29,34,Token
+952,2026-02-23,Red,Samaypur Badli,Malviya Nagar,61,Student,5.7,16,14,Smart Card
+953,2026-01-06,Violet,HUDA City Centre,Noida City Centre,37,Student,37.9,81,66,QR Ticket
+954,2026-10-30,Green,Botanical Garden,Malviya Nagar,59,Student,26.6,58,48,Mobile App
+955,2026-05-23,Magenta,Rajouri Garden,Samaypur Badli,31,Senior Citizen,4.1,13,11,Smart Card
+956,2026-12-24,Red,Botanical Garden,Kashmere Gate,15,Student,28.7,62,51,Smart Card
+957,2026-10-20,Blue,Noida City Centre,Civil Lines,67,Regular,33.7,72,77,Mobile App
+958,2026-08-26,Yellow,MG Road,Chandni Chowk,46,Senior Citizen,10.6,26,21,Smart Card
+959,2026-07-01,Magenta,Malviya Nagar,Noida Sector 15,60,Monthly Pass,39.1,83,0,Mobile App
+960,2026-07-27,Red,Vishwavidyalaya,IFFCO Chowk,53,Monthly Pass,25,55,0,QR Ticket
+961,2026-10-21,Green,Rajiv Chowk,Kirti Nagar,62,Tourist,2.9,11,16,Smart Card
+962,2026-11-30,Violet,Noida Sector 18,Noida Sector 15,41,Senior Citizen,12.2,29,23,Mobile App
+963,2026-03-22,Green,Samaypur Badli,Civil Lines,38,Senior Citizen,39.1,83,64,QR Ticket
+964,2026-07-06,Magenta,Qutub Minar,Noida City Centre,26,Senior Citizen,38.7,82,63,Token
+965,2026-06-15,Blue,Kirti Nagar,Vishwavidyalaya,64,Senior Citizen,39.2,83,64,Mobile App
+966,2026-02-19,Green,Saket,Sikanderpur,16,Tourist,7.6,20,25,Mobile App
+967,2026-04-26,Magenta,AIIMS,Dwarka Sector 21,58,Senior Citizen,25,55,43,Smart Card
+968,2026-08-01,Green,Kashmere Gate,Yamuna Bank,47,Regular,27.9,61,66,Smart Card
+969,2026-05-25,Yellow,Anand Vihar,Laxmi Nagar,50,Regular,7.6,20,25,Smart Card
+970,2026-01-12,Violet,Rajiv Chowk,Malviya Nagar,31,Regular,16.7,38,43,Smart Card
+971,2026-03-31,Green,Dwarka Sector 10,Yamuna Bank,41,Monthly Pass,14.3,34,0,Smart Card
+972,2026-09-17,Yellow,Botanical Garden,Janakpuri West,47,Tourist,3.9,13,18,Smart Card
+973,2026-05-27,Magenta,MG Road,Samaypur Badli,56,Regular,37.3,80,85,Token
+974,2026-02-03,Blue,Botanical Garden,Rithala,64,Monthly Pass,19.9,45,0,Mobile App
+975,2026-03-28,Yellow,Rajouri Garden,Vishwavidyalaya,61,Monthly Pass,22.6,50,0,Token
+976,2026-02-21,Green,Qutub Minar,MG Road,59,Student,24.1,53,44,Token
+977,2026-04-07,Magenta,IFFCO Chowk,Yamuna Bank,62,Student,13.1,31,26,QR Ticket
+978,2026-11-10,Magenta,Laxmi Nagar,HUDA City Centre,54,Student,39.9,85,69,Token
+979,2026-01-27,Violet,Malviya Nagar,Sikanderpur,42,Senior Citizen,22.7,50,39,Mobile App
+980,2026-11-18,Blue,Botanical Garden,MG Road,21,Student,4.9,15,13,Smart Card
+981,2026-03-26,Magenta,Qutub Minar,Rajiv Chowk,18,Student,21.6,48,40,QR Ticket
+982,2026-09-03,Green,Nirman Vihar,Dwarka Sector 21,27,Tourist,25.2,55,60,Smart Card
+983,2026-05-18,Violet,Noida Sector 15,Mandi House,56,Student,38.2,81,66,Mobile App
+984,2026-06-09,Magenta,Central Secretariat,Kashmere Gate,45,Tourist,35.4,76,81,Mobile App
+985,2026-12-28,Yellow,Central Secretariat,Noida Sector 15,58,Tourist,19.3,44,49,Token
+986,2026-10-11,Yellow,Chandni Chowk,Central Secretariat,70,Monthly Pass,10.7,26,0,Mobile App
+987,2026-05-03,Violet,Hauz Khas,Noida Sector 18,36,Monthly Pass,6.5,18,0,QR Ticket
+988,2026-01-28,Green,Dwarka Sector 10,Chandni Chowk,15,Tourist,39.9,85,90,Mobile App
+989,2026-01-22,Violet,Saket,Dwarka Sector 21,68,Student,3.6,12,11,Smart Card
+990,2026-11-16,Green,MG Road,Laxmi Nagar,19,Regular,37.1,79,84,Token
+991,2026-08-04,Magenta,IFFCO Chowk,Mandi House,44,Monthly Pass,4.7,14,0,Token
+992,2026-06-17,Yellow,Noida City Centre,Saket,67,Senior Citizen,2.1,9,8,QR Ticket
+993,2026-11-08,Red,Central Secretariat,Rohini West,40,Senior Citizen,13.9,33,26,Smart Card
+994,2026-05-25,Violet,Kirti Nagar,Anand Vihar,53,Tourist,8,21,26,Token
+995,2026-10-17,Violet,Kashmere Gate,Dwarka Sector 21,52,Student,19.9,45,37,Token
+996,2026-03-03,Violet,Saket,Saket,16,Senior Citizen,30.6,66,51,Mobile App
+997,2026-05-08,Magenta,Dwarka Sector 10,Rajiv Chowk,35,Regular,17.2,39,44,Smart Card
+998,2026-02-17,Blue,Malviya Nagar,Noida Sector 18,40,Regular,5.9,17,22,QR Ticket
+999,2026-09-12,Magenta,Janakpuri West,Chandni Chowk,46,Student,21.3,48,39,Token
+1000,2026-09-04,Magenta,Noida Sector 15,Laxmi Nagar,35,Regular,8.4,22,27,Mobile App
